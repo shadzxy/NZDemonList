@@ -3,6 +3,7 @@
 This is a list to rank the top 150 extreme demons beaten in New Zealand.
 
 You can access the site [here](https://nzdl.pages.dev) at https://nzdl.pages.dev
+To access the NZ Platformer List, visit https://nzplatlist.pages.dev
 
 ## List Team
 These are the people that manage the NZDL. Please contact them if you have any questions.
@@ -31,5 +32,6 @@ Completions with Click Between Frames enabled are allowed on the list, however t
 *If the record being submitted was completed on Vanilla Geometry Dash, cheat indicator is not required, but does require the in-game FPS counter.
 
 **All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.
+
 
 Website made by Shadz with the help of [The Shitty List template.](https://github.com/TheShittyList/GDListTemplate) Contact me on discord if you want to request any website changes/report bugs (@shadzhog)
