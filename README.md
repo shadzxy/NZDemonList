@@ -3,6 +3,7 @@
 This is a list to rank the top 150 extreme demons beaten in New Zealand.
 
 You can access the site [here](https://nzdl.pages.dev) at https://nzdl.pages.dev
+
 To access the NZ Platformer List, visit https://nzplatlist.pages.dev
 
 ## List Team
