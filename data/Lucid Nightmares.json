@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "341269",
     "records": [
+            {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=HmOOLYKtY4k",
+            "percent": 100,
+            "hz":"(CBF) 144"
+        }
     ]
 }
