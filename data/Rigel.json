@@ -8,13 +8,13 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-          {
+        {
             "user": "Dezstro",
             "link": "https://www.youtube.com/watch?v=634VNF2rpsc",
             "percent": 100,
-            "hz": 480,
+            "hz": 480
         },
-          {
+        {
             "user": "Artaix",
             "link": "https://www.youtube.com/watch?v=_xtUI2HoZZM",
             "percent": 100,
