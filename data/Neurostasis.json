@@ -1,0 +1,30 @@
+{
+    "id": 95281931,
+    "name": "Neurostasis",
+    "author": "KiwiPenguin",
+    "creators": ["KiwiPenguin"],
+    "verifier": "LunarLotus",
+    "verification": "https://youtu.be/xfuJa8Ed198?si=ZE2YiHr9sS_pntKB",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=edaMSP8-Iqc",
+            "percent": 100,
+            "hz": 240
+        }
+        {
+            "user": "Artaix",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

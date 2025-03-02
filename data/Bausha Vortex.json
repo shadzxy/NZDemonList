@@ -1,0 +1,18 @@
+{
+    "id": 30380566,
+    "name": "Bausha Vortex",
+    "author": "Pennutoh",
+    "creators": ["Pennutoh"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/LAYXFJZ2kX4?si=QNpDbdXFmAhvUMS1",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Helios1",
+            "link": "https://www.youtube.com/watch?v=r-6rbvJez8M",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
