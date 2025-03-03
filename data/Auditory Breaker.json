@@ -1,0 +1,36 @@
+{
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "LazerBlitz",
+    "creators": ["LazerBlitz, Manix648, Cyclic"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/zof7p22kMkQ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Jakalope",
+            "link": "https://www.youtube.com/watch?v=reu9k6wnmM8",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Zultzz",
+            "link": "https://youtu.be/9yllW3f7F_s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BoldStep",
+            "link": "https://youtu.be/KaoCpOalCUY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Artaix",
+            "link": "https://youtu.be/MbrDMwxf3RA",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

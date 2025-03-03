@@ -1,0 +1,18 @@
+{
+    "id": 59620684,
+    "name": "Void Wave",
+    "author": "CherryTeam",
+    "creators": ["CherryTeam"],
+    "verifier": "SRY4U",
+    "verification": "https://youtu.be/cvoD1gTvBjY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "BOSTONTHEKIDRS",
+            "link": "https://youtu.be/CiPsCiqI3no",
+            "percent": 100,
+            "hz": 280
+        }
+    ]
+}

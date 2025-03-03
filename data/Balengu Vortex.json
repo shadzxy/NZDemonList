@@ -1,0 +1,24 @@
+{
+    "id": 55385816,
+    "name": "Balengu Vortex",
+    "author": "Temp",
+    "creators": ["Temp, HJfod, ItsHybrid"],
+    "verifier": "Jakalope",
+    "verification": "https://youtu.be/PwQmvFz4IaI",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=Jexg8DvYTxg&t=209s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Fluff",
+            "link": "https://www.youtube.com/watch?v=iOyARJxBihg",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
