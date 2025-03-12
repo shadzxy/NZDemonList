@@ -1,0 +1,24 @@
+{
+    "id": 95355264,
+    "name": "hot rod",
+    "author": "stcubing",
+    "creators": ["stcubing"],
+    "verifier": "Stainsley",
+    "verification": "https://www.youtube.com/watch?v=-IMtWD2Xq8I",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nCorr",
+            "link": "https://youtu.be/qEixiTwRXrQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

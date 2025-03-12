@@ -1,0 +1,18 @@
+{
+    "id": 58417850,
+    "name": "Dolos",
+    "author": "Enzeux",
+    "creators": ["Enzeux, & more"],
+    "verifier": "elodie",
+    "verification": "https://youtu.be/SyvkQyXZnKY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Artaix",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

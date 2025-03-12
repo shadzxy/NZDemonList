@@ -1,0 +1,18 @@
+{
+    "id": 33387622,
+    "name": "Subsonic",
+    "author": "ViPriN",
+    "creators": ["ViPriN & more"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/aw99_AWr8C0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/bqPCsm6FQ-U",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

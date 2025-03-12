@@ -1,0 +1,18 @@
+{
+    "id": 48679353,
+    "name": "Audio Expulsion",
+    "author": "GoodSmile",
+    "creators": ["GoodSmile & more"],
+    "verifier": ""BoldStep,
+    "verification": "https://youtu.be/hu3IsuYHHM8",
+    "percentToQualify": 100,
+    "password": "276943",
+    "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/yLvDt4If9Vs",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
