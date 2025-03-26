@@ -1,0 +1,48 @@
+{
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/j0Ta5jSOgr4",
+    "percentToQualify": 100,
+    "password": "895562",
+    "records": [
+        {
+            "user": "natertot",
+            "link": "https://youtu.be/3F9IodgJXIU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nobody207",
+            "link": "https://www.youtube.com/watch?v=EZJStKMZ-rc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Artaix",
+            "link": "https://youtu.be/XoKXNLDjMls",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "LunarLotus",
+            "link": "https://www.youtube.com/watch?v=y2-Jy0tQGg4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "C4elan",
+            "link": "https://youtu.be/mBM5qwYK2Hc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "availax",
+            "link": "https://youtu.be/3-TW_1Ikct0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

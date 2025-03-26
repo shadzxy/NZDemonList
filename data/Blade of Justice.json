@@ -1,0 +1,48 @@
+{
+    "id": 35448603,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": ["Manix648, Panman, LazerBlitz"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/5j32KH-evDw",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "nCorr",
+            "link": "https://youtu.be/jCC06bhHl_4",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Artaix",
+            "link": "https://youtu.be/v7DlqaI4C3s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Stainsley",
+            "link": "https://youtu.be/sECoeq2JTXY",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Perikite",
+            "link": "https://www.youtube.com/watch?v=z4biVMJy4ZU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "zLevii",
+            "link": "https://youtu.be/osJisAOT3L8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

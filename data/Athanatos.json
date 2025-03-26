@@ -1,0 +1,24 @@
+{
+    "id": 26133601,
+    "name": "Athanatos",
+    "author": "Exenity",
+    "creators": ["Exenity, Gaero, Herzilo"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/LbYInQyxY5I",
+    "percentToQualify": 100,
+    "password": "666669",
+    "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=FByCRU8Bclo",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "LilTerry",
+            "link": "https://www.youtube.com/watch?v=LvRdGYlmuAg",
+            "percent": 100,
+            "hz": 280
+        }
+    ]
+}

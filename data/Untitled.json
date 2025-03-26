@@ -1,0 +1,36 @@
+{
+    "id": 68731559,
+    "name": "Untitled",
+    "author": "iiLuna",
+    "creators": ["iiLuna & More"],
+    "verifier": "garrowpop",
+    "verification": "https://youtu.be/KPptI7BaiMk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Perikite",
+            "link": "https://www.youtube.com/watch?v=7y3ificTVYQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zLevii",
+            "link": "https://youtu.be/mATYcFx5YLU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "availax",
+            "link": "https://youtu.be/rENFeGrr3vw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

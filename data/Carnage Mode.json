@@ -1,0 +1,18 @@
+{
+    "id": 36107975,
+    "name": "Carnage Mode",
+    "author": "Findexi",
+    "creators": ["Findexi & More"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/L3l44R5sKhM",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://youtu.be/ryI2Ddhoj3Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

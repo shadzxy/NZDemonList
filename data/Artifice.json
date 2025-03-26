@@ -1,0 +1,48 @@
+{
+    "id": 57520174,
+    "name": "Artifice",
+    "author": "f3lixsram",
+    "creators": ["f3lixsram & More"],
+    "verifier": "BOSTONTHEKIDRS",
+    "verification": "https://youtu.be/TpTZDAvhiM0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Frogs",
+            "link": "https://youtu.be/qAmjkNo7798",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nCorr",
+            "link": "https://youtu.be/z5ni0BiV18E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Artaix",
+            "link": "https://youtu.be/Vm_xxf97YWw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "AL3G",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=YGP4cRPZsmw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

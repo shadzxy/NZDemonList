@@ -1,0 +1,24 @@
+{
+    "id": 66085306,
+    "name": "DARKENED",
+    "author": "BIANOX",
+    "creators": ["BIANOX & More"],
+    "verifier": "Fluff",
+    "verification": "https://youtu.be/9jSxO73mV9U",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Artaix",
+            "link": "https://youtu.be/Jexg8DvYTxg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=IFZGBATAcPA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

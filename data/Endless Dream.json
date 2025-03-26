@@ -1,0 +1,18 @@
+{
+    "id": 70484097,
+    "name": "Endless Dream",
+    "author": "DreamTide",
+    "creators": ["DreamTide"],
+    "verifier": "Stainsley",
+    "verification": "https://youtu.be/UDlxhtbSP8k",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Artaix",
+            "link": "https://youtu.be/A4txsxIH_p4",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

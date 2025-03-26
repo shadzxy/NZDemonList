@@ -1,0 +1,18 @@
+{
+    "id": 69507105,
+    "name": "RASH",
+    "author": "loltad",
+    "creators": ["loltad"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/1kkuSmu3dbI",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Cross",
+            "link": "https://youtu.be/3A_I2D1qo1I",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

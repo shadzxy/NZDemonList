@@ -1,0 +1,30 @@
+{
+    "id": 64148732,
+    "name": "Carcano",
+    "author": "Asuith",
+    "creators": ["Asuith & TomsoN"],
+    "verifier": "natertot",
+    "verification": "https://youtu.be/WnpijLSTAzs",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Fluff",
+            "link": "https://youtu.be/0OPBtyIEOjM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Artaix",
+            "link": "",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "elodie",
+            "link": "https://youtu.be/Q0QeZUz4g2s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
