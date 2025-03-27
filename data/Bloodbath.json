@@ -97,6 +97,12 @@
             "link": "https://www.youtube.com/watch?v=HEE6tgVyWck",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Blayne",
+            "link": "https://www.youtube.com/watch?v=zFoxShH_rD0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
