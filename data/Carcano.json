@@ -3,11 +3,17 @@
     "name": "Carcano",
     "author": "Asuith",
     "creators": ["Asuith & TomsoN"],
-    "verifier": "natertot",
-    "verification": "https://youtu.be/WnpijLSTAzs",
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/yVLb096Vm0I",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "natertot",
+            "link": "https://youtu.be/WnpijLSTAzs",
+            "percent": 100,
+            "hz": 288
+        },
         {
             "user": "Fluff",
             "link": "https://youtu.be/0OPBtyIEOjM",
