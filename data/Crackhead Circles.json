@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+           {
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=IQje62xx_5s",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
     ]
 }
