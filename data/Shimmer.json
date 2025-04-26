@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+               {
+            "user": "availax",
+            "link": "https://youtu.be/LX_19bxa0AM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
