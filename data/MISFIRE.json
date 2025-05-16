@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "NavyKibbles",
+            "link": "https://www.youtube.com/watch?v=A54Jeho2wT8",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }
