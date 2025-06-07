@@ -10,10 +10,10 @@ To access the NZ Platformer List, visit https://nzplatlist.pages.dev
 These are the people that manage the NZDL. Please contact them if you have any questions.
 
 ### List Owner
-[Perikite](https://www.youtube.com/@perikite28)
+[Artaix](https://www.youtube.com/@Artaix/)
 
 ### List Moderators
-[Artaix](https://www.youtube.com/@Artaix/), [Customize](https://www.youtube.com/@Customize45), [Stainsley](https://www.youtube.com/@stainsley), [Shadz](https://www.youtube.com/@ShadzX)
+[Customize](https://www.youtube.com/@Customize45), [Stainsley](https://www.youtube.com/@stainsley), [Shadz](https://www.youtube.com/@ShadzX)
 
 ### List Developer
 [Shadz](https://www.youtube.com/@ShadzX)
