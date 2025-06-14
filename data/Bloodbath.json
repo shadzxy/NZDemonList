@@ -103,6 +103,18 @@
             "link": "https://www.youtube.com/watch?v=zFoxShH_rD0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Beanus",
+            "link": "https://www.youtube.com/watch?v=-oDFsznmmqI&t=13s",
+            "percent": 100,
+            "hz": "(CBF) 9999"
+        },
+        {
+            "user": "Darthskril",
+            "link": "https://www.youtube.com/watch?v=SON5FZAKP9E",
+            "Percent": 100,
+            "hz": 144
         }
     ]
 }
