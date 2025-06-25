@@ -3,11 +3,17 @@
     "name": "Auditory Breaker",
     "author": "LazerBlitz",
     "creators": ["LazerBlitz, Manix648, Cyclic"],
-    "verifier": "Extravagon",
-    "verification": "https://youtu.be/zof7p22kMkQ",
+    "verifier": "Dezstro",
+    "verification": "https://www.youtube.com/watch?v=EwwwAGicfkA",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://youtu.be/zof7p22kMkQ",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Jakalope",
             "link": "https://www.youtube.com/watch?v=reu9k6wnmM8",
