@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+          {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=EuUJuDDzfHY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
