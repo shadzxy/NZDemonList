@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "LunarLotus",
+            "link": "https://www.youtube.com/watch?v=R5Q_xvqcd7g",
+            "percent": 100,
+            "hz": "360"
+        }
     ]
 }
