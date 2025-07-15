@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "123456",
     "records": [
+        {
+            "user": "Helios1",
+            "link": "https://www.youtube.com/watch?v=TuQ3EJ70ePg",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
