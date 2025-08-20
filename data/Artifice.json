@@ -3,11 +3,17 @@
     "name": "Artifice",
     "author": "f3lixsram",
     "creators": ["f3lixsram & More"],
-    "verifier": "BOSTONTHEKIDRS",
-    "verification": "https://youtu.be/TpTZDAvhiM0",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=YGP4cRPZsmw",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "BOSTONTHEKIDRS",
+            "link": "https://youtu.be/TpTZDAvhiM0",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "Customize45",
             "link": "",
@@ -37,12 +43,6 @@
             "link": "",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "Extravagon",
-            "link": "https://www.youtube.com/watch?v=YGP4cRPZsmw",
-            "percent": 100,
-            "hz": 144
         }
     ]
 }
