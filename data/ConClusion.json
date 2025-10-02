@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "LunarLotus",
+            "link": "https://www.youtube.com/watch?v=XvWDlEiAYDg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=mNg0vaCf6Pk",
+            "percent": 100,
+            "hz": 240
+        }       
     ]
 }
