@@ -1,0 +1,24 @@
+{
+    "id": 90057148,
+    "name": "Terminal Rampancy",
+    "author": "Xyriak",
+    "creators": ["Xyriak"],
+    "verifier": "zLevii",
+    "verification": "https://www.youtube.com/watch?v=Rkp8BljXhwo",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=GsBmoWj3dXw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Customize45",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
