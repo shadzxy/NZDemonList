@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=9aOi23EkQSE",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Dezstro",
+            "link": "https://youtu.be/SilOFizA8_Y",
+            "percent": 100,
+            "hz": 480
+        }        
     ]
 }
