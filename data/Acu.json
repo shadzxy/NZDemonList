@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Perikite",
+            "link": "https://youtu.be/cCkf_FD0tQk?si=HurIivB8K9XsMXb6",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
