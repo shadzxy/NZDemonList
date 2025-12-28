@@ -1,0 +1,18 @@
+{
+    "id": 20077821,
+    "name": "Red World Rebirth",
+    "author": "Riot",
+    "creators": ["SaRy & More"],
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=-ElaNZe-AEQ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Dezstro",
+            "link": "https://youtu.be/bbbNIPz3phw",
+            "percent": 100,
+            "hz": 960
+        }
+    ]
+}
