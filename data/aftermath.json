@@ -4,7 +4,7 @@
     "author": "Exenity",
     "creators": ["Exenity & more"],
     "verifier": "Artaix",
-    "verification": "https://www.youtube.com/watch?v=iLCcJyh5c5k",
+    "verification": "https://www.youtube.com/watch?v=8nAoCDvhyHQ",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/yLPSZSy6kyQ",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=Wud-yt6ziSg&t=58s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
