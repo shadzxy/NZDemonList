@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "220619",
     "records": [
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=LDnnocFvLoo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
