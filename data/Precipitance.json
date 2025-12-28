@@ -1,0 +1,18 @@
+{
+    "id": 60197839,
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "creators": ["Extravagon"],
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=_W9xA5lqmLs",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=VGDwdJZRk3g",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
