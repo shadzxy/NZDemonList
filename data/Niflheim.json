@@ -9,10 +9,10 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "",
-            "link": "",
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=DK_aaTg2yG0",
             "percent": 100,
-            "hz": 240
+            "hz": 480
         }
     ]
 }
