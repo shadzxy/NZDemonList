@@ -1,0 +1,18 @@
+{
+    "id": 61531210,
+    "name": "Hyper Paradox",
+    "author": "ItsHybrid",
+    "creators": ["Syqual & More"],
+    "verifier": "Fluff",
+    "verification": "https://www.youtube.com/watch?v=OJ1hQd34y_s",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=2tl-9ZTJ_t4",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
