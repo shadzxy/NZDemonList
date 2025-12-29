@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=59Cxisn-TtI",
             "percent": 100,
             "hz": "(CBF) 240"
-        }
+        },
+         {
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=XJFRLU_Ul78",
+            "percent": 100,
+            "hz": 480
+        }       
     ]
 }
