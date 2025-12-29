@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=jZ2il2_ekY4",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
