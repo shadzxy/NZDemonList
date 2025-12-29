@@ -3,22 +3,28 @@
     "name": "Cataclysm",
     "author": "GgB0y",
     "creators": ["GgB0y"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=RKUuW0YPJSM",
+    "verifier": "Perikite",
+    "verification": "https://youtu.be/R2xR-HXstPA?si=U6gHkD10ZMml4Vzf",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Perikite",
-            "link": "https://youtu.be/R2xR-HXstPA?si=U6gHkD10ZMml4Vzf",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=RKUuW0YPJSM",
             "percent": 100,
-            "hz": 240
+            "hz": 360
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=1e8ZVpszN1o",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "kate",
             "link": "https://www.youtube.com/watch?v=59Cxisn-TtI",
             "percent": 100,
             "hz": "(CBF) 240"
-        }        
+        }
     ]
 }
