@@ -3,14 +3,20 @@
     "name": "Allegiance",
     "author": "nikroplays",
     "creators": ["nikroplays"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=k3rjXqp8zLY",
+    "verifier": "Shira",
+    "verification": "https://www.youtube.com/watch?v=Dco7UIj-lQ8",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
             "user": "Perikite",
             "link": "https://youtu.be/ET1DWY5wBRU?si=vk8O3iyPToJnXbgZ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=k3rjXqp8zLY",
             "percent": 100,
             "hz": 240
         }
