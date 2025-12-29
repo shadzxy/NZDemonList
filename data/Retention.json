@@ -1,0 +1,12 @@
+{
+    "id": 123456789,
+    "name": "Retention",
+    "author": "WOOGI",
+    "creators": ["WOOGI"],
+    "verifier": "kate",
+    "verification": "https://www.youtube.com/watch?v=8yY9jxhUiUY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+    ]
+}
