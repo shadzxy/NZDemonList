@@ -3,16 +3,22 @@
     "name": "Acu",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=KS1Z5NVH9Js",
+    "verifier": "Perikite",
+    "verification": "https://youtu.be/cCkf_FD0tQk?si=HurIivB8K9XsMXb6",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Perikite",
-            "link": "https://youtu.be/cCkf_FD0tQk?si=HurIivB8K9XsMXb6",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=KS1Z5NVH9Js",
             "percent": 100,
-            "hz": 240
-        }
+            "hz": 360
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=lAAHaV1c9wE",
+            "percent": 100,
+            "hz": "(CBF) 165"
+        },
     ]
 }
