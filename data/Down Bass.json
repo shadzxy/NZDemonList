@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=_frE_heqEnM",
             "percent": 100,
             "hz": 480
-        }
+        },
+        {
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=JOcXMvQdWuc",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }        
     ]
 }
