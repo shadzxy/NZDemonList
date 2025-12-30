@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=4KsOC_5D6JE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Fluff",
+            "link": "https://youtu.be/6sWEUsogi8w",
+            "percent": 100,
+            "hz": 480
         }        
     ]
 }
