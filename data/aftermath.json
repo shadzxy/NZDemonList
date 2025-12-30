@@ -22,9 +22,15 @@
         },
         {
             "user": "Perikite",
-            "link": " https://youtu.be/7OIOFcSdeMU?si=tNFkxDNZ6TOIjVOo",
+            "link": "https://youtu.be/7OIOFcSdeMU?si=tNFkxDNZ6TOIjVOo",
             "percent": 100,
             "hz": 240
+        }
+        {
+            "user": "Fluff",
+            "link": "https://youtu.be/nxihChI83cU",
+            "percent": 100,
+            "hz": "(CBF) 240"
         }
     ]
 }
