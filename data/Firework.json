@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "ItzQuick",
+            "link": "https://www.youtube.com/watch?v=fiOHKLXxqek",
+            "percent": 100,
+            "hz": "(CBF) 400"
+        }
     ]
 }
