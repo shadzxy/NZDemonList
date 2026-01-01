@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=VGDwdJZRk3g",
             "percent": 100,
             "hz": 480
-        }
+        },
+        {
+            "user": "DarthSkril",
+            "link": "Precipitance",
+            "percent": 100,
+            "hz": 240
+        }        
     ]
 }
