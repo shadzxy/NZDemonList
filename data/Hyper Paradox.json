@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=2tl-9ZTJ_t4",
             "percent": 100,
             "hz": 480
-        }
+        },
+        {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=C6Ge_aIsZqQ",
+            "percent": 100,
+            "hz": 240
+        }        
     ]
 }
