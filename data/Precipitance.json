@@ -31,6 +31,12 @@
             "link": "Precipitance",
             "percent": 100,
             "hz": 240
-        }        
+        },
+        {
+            "user": "Shadz",
+            "link": "Precipitance",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
