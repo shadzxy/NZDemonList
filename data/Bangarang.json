@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Stainsley",
+            "link": "https://www.youtube.com/watch?v=Sh6a4Mq-oZM",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        }
     ]
 }
