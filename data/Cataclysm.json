@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=2l28YAnYQRo",
             "percent": 100,
             "hz": "(CBF) 120"
-        }        
+        },
+         {
+            "user": "Stainsley",
+            "link": "https://www.youtube.com/watch?v=zuOoWymcC08",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
