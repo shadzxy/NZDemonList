@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=8a7gl3JjkYw",
             "percent": 100,
             "hz": 144
-        }       
+        },
+         {
+            "user": "Stainsley",
+            "link": "https://www.youtube.com/watch?v=bs8GMu4IQ3Y",
+            "percent": 100,
+            "hz": 240
+        }      
     ]
 }
