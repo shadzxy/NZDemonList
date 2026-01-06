@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Stainsley",
+            "link": "https://www.youtube.com/watch?v=MuSMDcayVnY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Dezstro",
             "link": "https://www.youtube.com/watch?v=7rg6DNeJZFU",
             "percent": 100,
