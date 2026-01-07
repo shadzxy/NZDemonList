@@ -28,15 +28,21 @@
         },
         {
             "user": "DarthSkril",
-            "link": "Precipitance",
+            "link": "https://www.youtube.com/watch?v=bSlMb7POxec",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "Shadz",
-            "link": "Precipitance",
+            "link": "https://www.youtube.com/watch?v=sCrYoc-POJU",
             "percent": 100,
             "hz": 480
-        }
+        },
+        {
+            "user": "Kinetik",
+            "link": "https://www.youtube.com/watch?v=WzqD76le71M",
+            "percent": 100,
+            "hz": 165
+        }        
     ]
 }
