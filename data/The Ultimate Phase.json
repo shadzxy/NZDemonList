@@ -1,0 +1,18 @@
+{
+    "id": 7174110,
+    "name": "The Ultimate Phase",
+    "author": "Andromeda",
+    "creators": ["ZenthicAlpha & More"],
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=xW1nRnnuXss",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zTenKeyLess",
+            "link": "https://youtu.be/TvG4hYECwE8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
