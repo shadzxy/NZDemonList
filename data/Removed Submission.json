@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "slack",
+            "link": "https://www.youtube.com/watch?v=i0puTFMlxz4",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
