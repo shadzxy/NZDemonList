@@ -73,6 +73,12 @@
             "link": "https://www.youtube.com/watch?v=lCWPCkCZWm8",
             "percent": 100,
             "hz": 165
-        }       
+        },
+          {
+            "user": "Kinetik",
+            "link": "https://www.youtube.com/watch?v=uyDJp6dtCVc",
+            "percent": 100,
+            "hz": 165
+        }        
     ]
 }
