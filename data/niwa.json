@@ -28,9 +28,15 @@
         },
         {
             "user": "Bob Murray",
-            "link": "hhttps://youtu.be/2mp-sgdBewk",
+            "link": "https://youtu.be/2mp-sgdBewk",
             "percent": 100,
             "hz": "(CBF) 240"
+        },
+        {
+            "user": "zTenKeyLess",
+            "link": "https://youtu.be/2cDcXSrFc80",
+            "percent": 100,
+            "hz": 240
         }        
     ]
 }
