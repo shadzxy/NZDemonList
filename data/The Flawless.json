@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "zTenKeyLess",
+            "link": "https://www.youtube.com/watch?v=eVPaSlVPy2Y",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
