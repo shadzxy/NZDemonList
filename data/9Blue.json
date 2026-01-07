@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Kinetik",
+            "link": "https://www.youtube.com/watch?v=5yIuxajjrwg",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
