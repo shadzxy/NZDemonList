@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=-aJVWR_leM0",
             "percent": 100,
             "hz": 144
-        }        
+        },
+        {
+            "user": "Bob Murray",
+            "link": "https://youtu.be/VUiA3JQtN7E",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
