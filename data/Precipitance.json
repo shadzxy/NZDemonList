@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=WzqD76le71M",
             "percent": 100,
             "hz": 165
-        }        
+        },
+        {
+            "user": "Popidon",
+            "link": "https://youtu.be/zh6rZ3MIWcM?si=yK02f_f-fghMHkDm",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
