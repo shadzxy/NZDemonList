@@ -52,9 +52,15 @@
         },
         {
             "user": "kate",
-            "link": "hhttps://youtu.be/Xm72Nk9ulV0?si=JCpojHiGz2Izp8BJ",
+            "link": "https://youtu.be/Xm72Nk9ulV0?si=JCpojHiGz2Izp8BJ",
             "percent": 100,
             "hz": "(CBF) 480"
-        }        
+        },
+        {
+            "user": "Popidon",
+            "link": "https://youtu.be/JYIizfSVjmo?si=VbvRKvFm5GlczwFm",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
