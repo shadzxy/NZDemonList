@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=eQarw3aX1OM",
             "percent": 100,
             "hz": "(CBF) 240"
-        }        
+        },
+        {
+            "user": "Popidon",
+            "link": "https://youtu.be/m99iiK9lHFo?si=Nz52j31AICgVhenl",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
