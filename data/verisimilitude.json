@@ -3,10 +3,16 @@
     "name": "verisimilitude",
     "author": "whlt",
     "creators": ["whlt & More"],
-    "verifier": "Bob Murray",
-    "verification": "https://www.youtube.com/watch?v=NyvXqdB4DV0",
+    "verifier": "Popidon",
+    "verification": "https://youtu.be/MnDYg32y0uQ?si=O79xDKA9znuaauAv",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Bob Murray",
+            "link": "https://www.youtube.com/watch?v=NyvXqdB4DV0",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
