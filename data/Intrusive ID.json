@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Popidon",
+            "link": "https://youtu.be/hx5kd8KCxdE?si=q6cRYuzFEb5oK2s5",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
