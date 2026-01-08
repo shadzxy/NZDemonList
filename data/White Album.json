@@ -3,10 +3,16 @@
     "name": "White Album",
     "author": "JAVP",
     "creators": ["JAVP"],
-    "verifier": "kate",
-    "verification": "https://youtu.be/kdghOkfd_pI?si=N2Vgh_WnGfzJqGfQ",
+    "verifier": "Popidon",
+    "verification": "https://youtu.be/bfFyfb6EPFg?si=huvTvunZXI29IiuP",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=kdghOkfd_pI",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
