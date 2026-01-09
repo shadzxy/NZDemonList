@@ -3,14 +3,14 @@
     "name": "niwa",
     "author": "Teno",
     "creators": ["Teno & more"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=kMmMKquakZY",
+    "verifier": "Perikite",
+    "verification": "https://www.youtube.com/watch?v=zWQ-xQNaYvw",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Perikite",
-            "link": "https://youtu.be/mlHqu3BpP5s",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=kMmMKquakZY",
             "percent": 100,
             "hz": 240
         },
