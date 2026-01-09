@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=zRFQGSoabus",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
