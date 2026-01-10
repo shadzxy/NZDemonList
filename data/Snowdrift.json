@@ -3,20 +3,20 @@
     "name": "Snowdrift",
     "author": "Bratki",
     "creators": ["Bratki"],
-    "verifier": "kate",
-    "verification": "https://www.youtube.com/watch?v=RKjkfKIld-Y",
+    "verifier": "Fluff",
+    "verification": "https://youtu.be/oEOryvVUxCY",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Fluff",
-            "link": "https://youtu.be/oEOryvVUxCY",
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=tQ3GGVBz0Vw",
             "percent": 100,
             "hz": 480
         },
         {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=tQ3GGVBz0Vw",
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=RKjkfKIld-Y",
             "percent": 100,
             "hz": 480
         }
