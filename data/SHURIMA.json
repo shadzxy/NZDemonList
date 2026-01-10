@@ -3,16 +3,16 @@
     "name": "SHURIMA",
     "author": "stcubing",
     "creators": ["stcubing"],
-    "verifier": "Popidon",
-    "verification": "https://youtu.be/Hrw0dqhaVzs?si=Y1f_fD3eE44MZGoN",
+    "verifier": "Shira",
+    "verification": "https://www.youtube.com/watch?v=erg1fs0BZ2M",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=erg1fs0BZ2M",
+            "user": "Popidon",
+            "link": "https://youtu.be/Hrw0dqhaVzs?si=Y1f_fD3eE44MZGoN",
             "percent": 100,
-            "hz": "(CBF) 240"
+            "hz": 240
         }
     ]
 }
