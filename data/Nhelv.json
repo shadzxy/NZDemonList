@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=rRyS_BBbl-s",
             "percent": 100,
             "hz": "(CBF) 240"
-        }
+        },
+        {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=qEviV7vZPKQ",
+            "percent": 100,
+            "hz": 240
+        }        
     ]
 }
