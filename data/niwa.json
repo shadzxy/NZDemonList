@@ -9,22 +9,22 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Fluff",
+            "link": "https://youtu.be/59jwOqi0ZXE",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
             "user": "Shadz",
             "link": "https://www.youtube.com/watch?v=kMmMKquakZY",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "kate",
-            "link": "https://www.youtube.com/watch?v=Rh8NJbZ44iQ",
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=o4mDO9LiTVg",
             "percent": 100,
-            "hz": "(CBF) 240"
-        },
-        {
-            "user": "Fluff",
-            "link": "https://youtu.be/59jwOqi0ZXE",
-            "percent": 100,
-            "hz": "360"
+            "hz": "(CBF) 165"
         },
         {
             "user": "Bob Murray",
@@ -39,10 +39,10 @@
             "hz": 240
         },
         {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=o4mDO9LiTVg",
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=Rh8NJbZ44iQ",
             "percent": 100,
-            "hz": "(CBF) 165"
-        }   
+            "hz": "(CBF) 240"
+        }
     ]
 }
