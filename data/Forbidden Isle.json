@@ -3,11 +3,23 @@
     "name": "Forbidden Isle",
     "author": "Sillow",
     "creators": ["Sillow"],
-    "verifier": "Dezstro",
-    "verification": "https://youtu.be/tMUKcK_VBZo",
+    "verifier": "Stainsley",
+    "verification": "https://www.youtube.com/watch?v=1ZL8XdY0hZo",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Fluff",
+            "link": "https://www.youtube.com/watch?v=PIiWD_YiQBw&t=2s",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=HilLovr0GZI",
+            "percent": 100,
+            "hz": "(CBF) 480"
+        },
         {
             "user": "Shadz",
             "link": "https://www.youtube.com/watch?v=qHbBek65ePA",
@@ -21,22 +33,10 @@
             "hz": "(CBF) 240"
         },
         {
-            "user": "Fluff",
-            "link": "https://www.youtube.com/watch?v=PIiWD_YiQBw&t=2s",
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=tMUKcK_VBZo",
             "percent": 100,
-            "hz": "360"
-        },
-        {
-            "user": "Stainsley",
-            "link": "https://www.youtube.com/watch?v=1ZL8XdY0hZo",
-            "percent": 100,
-            "hz": "300"
-        },
-        {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=HilLovr0GZI",
-            "percent": 100,
-            "hz": "(CBF) 480"
+            "hz": 480
         }
     ]
 }
