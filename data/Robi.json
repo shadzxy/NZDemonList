@@ -3,11 +3,17 @@
     "name": "Robi",
     "author": "robianny",
     "creators": ["robianny"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=inSAfuSJ5S8",
+    "verifier": "Fluff",
+    "verification": "https://youtu.be/Z1W_t3UBgiE",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=6pnRNdgzsFI",
+            "percent": 100,
+            "hz": "240"
+        },
         {
             "user": "kate",
             "link": "https://www.youtube.com/watch?v=jZ2il2_ekY4",
@@ -15,16 +21,10 @@
             "hz": "(CBF) 240"
         },
         {
-            "user": "Fluff",
-            "link": "https://youtu.be/Z1W_t3UBgiE",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=inSAfuSJ5S8",
             "percent": 100,
             "hz": "240"
         },
-        {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=6pnRNdgzsFI",
-            "percent": 100,
-            "hz": "240"
-        }
     ]
 }
