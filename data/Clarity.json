@@ -3,16 +3,16 @@
     "name": "Clarity",
     "author": "Hypno",
     "creators": ["Hypno"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=IeN9Wcka9Lk",
+    "verifier": "Shira",
+    "verification": "https://www.youtube.com/watch?v=wrNUh-jyiV8",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=wrNUh-jyiV8",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=IeN9Wcka9Lk",
             "percent": 100,
-            "hz": 240
+            "hz": "(CBF) 480"
         }
     ]
 }
