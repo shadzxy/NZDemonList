@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=vW337lnNusI",
             "percent": 100,
             "hz": "(CBF) 480"
-        }      
+        },
+             {
+            "user": "TB4727",
+            "link": "https://youtu.be/Z5ArzukYVN8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
