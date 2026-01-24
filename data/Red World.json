@@ -3,14 +3,14 @@
     "name": "Red World",
     "author": "SaRy",
     "creators": ["SaRy"],
-    "verifier": "Dezstro",
-    "verification": "https://youtu.be/3Yb5FlpF-0k",
+    "verifier": "Shadz",
+    "verification": "https://www.youtube.com/watch?v=y0rK6iZTmMw",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Shadz",
-            "link": "https://www.youtube.com/watch?v=y0rK6iZTmMw",
+            "user": "Dezstro",
+            "link": "https://www.youtube.com/watch?v=3Yb5FlpF-0k",
             "percent": 100,
             "hz": 480
         },
