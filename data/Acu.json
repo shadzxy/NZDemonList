@@ -21,26 +21,20 @@
             "hz": 360
         },
         {
+            "user": "Corfner468",
+            "link": "https://www.youtube.com/watch?v=7xEJJ-1uW7o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Shadz",
             "link": "https://www.youtube.com/watch?v=KS1Z5NVH9Js",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Shira",
-            "link": "https://www.youtube.com/watch?v=lAAHaV1c9wE",
-            "percent": 100,
-            "hz": "(CBF) 165"
-        },
-        {
             "user": "Fluff",
             "link": "https://www.youtube.com/watch?v=QSEy5ZKZ4Y4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Corfner468",
-            "link": "https://www.youtube.com/watch?v=7xEJJ-1uW7o",
             "percent": 100,
             "hz": 360
         },
@@ -51,8 +45,26 @@
             "hz": 144
         },
         {
+            "user": "Popidon",
+            "link": "https://youtu.be/JYIizfSVjmo?si=VbvRKvFm5GlczwFm",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=lAAHaV1c9wE",
+            "percent": 100,
+            "hz": "(CBF) 165"
+        },
+        {
             "user": "Bob Murray",
             "link": "https://youtu.be/VUiA3JQtN7E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "TB4727",
+            "link": "https://youtu.be/tSWob3khW5c",
             "percent": 100,
             "hz": 240
         },
@@ -67,18 +79,6 @@
             "link": "https://youtu.be/Xm72Nk9ulV0?si=JCpojHiGz2Izp8BJ",
             "percent": 100,
             "hz": "(CBF) 480"
-        },
-        {
-            "user": "Popidon",
-            "link": "https://youtu.be/JYIizfSVjmo?si=VbvRKvFm5GlczwFm",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "TB4727",
-            "link": "https://youtu.be/tSWob3khW5c",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
