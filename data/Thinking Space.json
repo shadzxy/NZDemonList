@@ -20,11 +20,17 @@
             "percent": 100,
             "hz": "(CBF) 240"
         },
-          {
+           {
             "user": "DarthSkril",
             "link": "https://www.youtube.com/watch?v=FlcjJtkb4pM",
             "percent": 100,
             "hz": "240"
+          },
+          {
+            "user": "Natertot",
+            "link": "https://www.youtube.com/watch?v=H5qdJNolA5k&pp=2AYE0gcJCYcKAYcqIYzv",
+            "percent": 100,
+            "hz": "(CBF) 480"
           }
     ]
 }
