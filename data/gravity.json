@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Kasane Teto",
+            "link": "https://www.youtube.com/watch?v=edKxlR0jOzw",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
