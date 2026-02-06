@@ -3,11 +3,17 @@
     "name": "Azurite (Sillow)",
     "author": "Sillow",
     "creators": ["Sillow"],
-    "verifier": "Perikite",
-    "verification": "https://youtu.be/MaHomezLUPI?si=Mua4v9whcfbgZv_N",
+    "verifier": "natertot",
+    "verification": "https://youtu.be/wnyokmH2Btw",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Perikite",
+            "link": "https://youtu.be/MaHomezLUPI",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Fluff",
             "link": "https://youtu.be/IKmztKqTOao",
