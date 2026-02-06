@@ -3,10 +3,16 @@
     "name": "Maybe Possibly Thing",
     "author": "iNubble",
     "creators": ["iNubble"],
-    "verifier": "slack",
-    "verification": "https://www.youtube.com/watch?v=7X16ZTF6BE8",
+    "verifier": "natertot",
+    "verification": "https://youtu.be/78TddVHecEc",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "slack",
+            "link": "https://www.youtube.com/watch?v=7X16ZTF6BE8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
