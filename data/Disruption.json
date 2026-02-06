@@ -3,11 +3,17 @@
     "name": "Disruption",
     "author": "Ka1sa",
     "creators": ["Ka1sa"],
-    "verifier": "Stainsley",
-    "verification": "https://www.youtube.com/watch?v=MNNku9TESAQ",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=NPdhcawbeK8",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Stainsley",
+            "link": "https://www.youtube.com/watch?v=MNNku9TESAQ",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "TheFireInside",
             "link": "https://www.youtube.com/watch?v=q7GcQtSMAnA",
