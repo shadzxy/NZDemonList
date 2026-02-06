@@ -3,8 +3,8 @@
     "name": "Deception Dive",
     "author": "Rustam",
     "creators": ["Rustam & More"],
-    "verifier": "Corfner468",
-    "verification": "https://youtu.be/TUQFZYXAXjw",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=Tl1D9gINvsA",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=n7dO8BGdQxY",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Corfner468",
+            "link": "https://youtu.be/TUQFZYXAXjw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
