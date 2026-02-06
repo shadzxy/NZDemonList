@@ -3,11 +3,17 @@
     "name": "Doradura",
     "author": "IvashkaUA",
     "creators": ["IvashkaUA"],
-    "verifier": "perikite",
-    "verification": "https://youtu.be/oIDCatJRmd8?si=Yn0-hoVYjnK4qA1w",
+    "verifier": "natertot",
+    "verification": "https://youtu.be/f6tByeR87uI",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Perikite",
+            "link": "https://youtu.be/oIDCatJRmd8",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Shira",
             "link": "https://www.youtube.com/watch?v=64kV8yH7Oek",
