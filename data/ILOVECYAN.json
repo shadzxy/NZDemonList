@@ -3,10 +3,16 @@
     "name": "ILOVECYAN",
     "author": "AVRG",
     "creators": ["AVRG"],
-    "verifier": "Perikite",
-    "verification": "https://youtu.be/XnqNmN7knts?si=AgtCNg9126-N5WeL",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=z0qICR-3ftE",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Perikite",
+            "link": "https://youtu.be/XnqNmN7knts?si=AgtCNg9126-N5WeL",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
