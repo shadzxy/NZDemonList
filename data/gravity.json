@@ -3,11 +3,17 @@
     "name": "gravity",
     "author": "Kaza",
     "creators": ["Kaza"],
-    "verifier": "Popidon",
-    "verification": "https://youtu.be/_cPrzZMXiAE?si=5vxJgQN7wBmB14Ra",
+    "verifier": "Natertot",
+    "verification": "https://youtu.be/G2jV5Y5TvuE?si=3VUglmu463r-lu7K&t=141",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Popidon",
+            "link": "https://youtu.be/_cPrzZMXiAE?si=5vxJgQN7wBmB14Ra",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Kasane Teto",
             "link": "https://www.youtube.com/watch?v=edKxlR0jOzw",
