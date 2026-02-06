@@ -3,10 +3,16 @@
     "name": "Falling Up",
     "author": "KrmaL",
     "creators": ["KrmaL"],
-    "verifier": "TB4727",
-    "verification": "https://youtu.be/RGZoyiNV3vM",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=sbje1bW09Es",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "TB4727",
+            "link": "https://youtu.be/RGZoyiNV3vM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
