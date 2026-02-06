@@ -3,10 +3,16 @@
     "name": "troll level",
     "author": "lexycat",
     "creators": ["lexycat, Glitchy, lena"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=Kfk0k3YAsrs",
+    "verifier": "natertot",
+    "verification": "https://youtu.be/xxlqLTC9W7c",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=Kfk0k3YAsrs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
