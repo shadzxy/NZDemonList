@@ -3,10 +3,16 @@
     "name": "Lights Out",
     "author": "Dashiell10",
     "creators": ["Dashiell10"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=NutcvgxzjkM",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=Ml3XOPvRvag",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=NutcvgxzjkM",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        }
     ]
 }
