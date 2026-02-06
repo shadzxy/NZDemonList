@@ -3,11 +3,17 @@
     "name": "Sweater Weather",
     "author": "VelYT",
     "creators": ["VelYT"],
-    "verifier": "Fluff",
-    "verification": "https://youtu.be/Z_G2nV1cC2U",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=rRmzePLk9Yk",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Fluff",
+            "link": "https://www.youtube.com/watch?v=Z_G2nV1cC2U",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Shadz",
             "link": "https://www.youtube.com/watch?v=fUXvCERG_JM",
