@@ -3,11 +3,17 @@
     "name": "Forbidden Isle",
     "author": "Sillow",
     "creators": ["Sillow"],
-    "verifier": "Stainsley",
-    "verification": "https://www.youtube.com/watch?v=1ZL8XdY0hZo",
+    "verifier": "natertot",
+    "verification": "https://www.youtube.com/watch?v=WZNk9-1R1q0",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Stainsley",
+            "link": "https://www.youtube.com/watch?v=1ZL8XdY0hZo",
+            "percent": 100,
+            "hz": 300
+        },
         {
             "user": "Fluff",
             "link": "https://www.youtube.com/watch?v=PIiWD_YiQBw&t=2s",
