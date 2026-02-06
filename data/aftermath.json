@@ -3,22 +3,16 @@
     "name": "aftermath",
     "author": "Exenity",
     "creators": ["Exenity & more"],
-    "verifier": "Artaix",
-    "verification": "https://www.youtube.com/watch?v=8nAoCDvhyHQ",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=wtRrP1PS02o",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Dezstro",
-            "link": "https://youtu.be/yLPSZSy6kyQ",
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=8nAoCDvhyHQ",
             "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "Shadz",
-            "link": "https://www.youtube.com/watch?v=Wud-yt6ziSg&t=58s",
-            "percent": 100,
-            "hz": 240
+            "hz": 144
         },
         {
             "user": "Perikite",
@@ -27,10 +21,10 @@
             "hz": 240
         },
         {
-            "user": "Fluff",
-            "link": "https://youtu.be/nxihChI83cU",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=Wud-yt6ziSg&t=58s",
             "percent": 100,
-            "hz": "(CBF) 240"
+            "hz": 240
         },
         {
             "user": "DarthSkril",
@@ -45,16 +39,28 @@
             "hz": "(CBF) 144"
         },
         {
-            "user": "slack",
-            "link": "https://www.youtube.com/watch?v=E5bMBYe1ebk",
-            "percent": 100,
-            "hz": 165
-        },
-        {
             "user": "Shira",
             "link": "https://www.youtube.com/watch?v=BbcOTfCi0cU",
             "percent": 100,
             "hz": "(CBF) 240"
+        },
+        {
+            "user": "Dezstro",
+            "link": "https://youtu.be/yLPSZSy6kyQ",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Fluff",
+            "link": "https://youtu.be/nxihChI83cU",
+            "percent": 100,
+            "hz": "(CBF) 240"
+        },
+        {
+            "user": "slack",
+            "link": "https://www.youtube.com/watch?v=E5bMBYe1ebk",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
