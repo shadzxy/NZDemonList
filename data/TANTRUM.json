@@ -3,10 +3,16 @@
     "name": "TANTRUM",
     "author": "DanZmeN",
     "creators": ["DanZmeN & more"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=PfWt3T7A_vs",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=Ce_O9G-tvCs",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=PfWt3T7A_vs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
