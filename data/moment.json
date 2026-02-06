@@ -3,8 +3,8 @@
     "name": "moment",
     "author": "Lexycat",
     "creators": ["icedcave, Lexycat, Stormfly"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=PXcVLk8fflg&t=299s",
+    "verifier": "Natertot",
+    "verification": "https://youtu.be/G2jV5Y5TvuE?si=3VUglmu463r-lu7K&t=67",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
@@ -21,16 +21,22 @@
             "hz": 280
         },
         {
-            "user": "Bob Murray",
-            "link": "https://www.youtube.com/watch?v=eQarw3aX1OM",
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=PXcVLk8fflg&t=299s",
             "percent": 100,
-            "hz": "(CBF) 240"
+            "hz": 280
         },
         {
             "user": "Popidon",
             "link": "https://youtu.be/m99iiK9lHFo?si=Nz52j31AICgVhenl",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Bob Murray",
+            "link": "https://www.youtube.com/watch?v=eQarw3aX1OM",
+            "percent": 100,
+            "hz": "(CBF) 240"
         },
         {
             "user": "zTenKeyLess",
