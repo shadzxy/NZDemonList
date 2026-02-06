@@ -3,11 +3,17 @@
     "name": "Prismatic Haze",
     "author": "Cirtrax",
     "creators": ["Cirtrax, Gizbro, Moosh"],
-    "verifier": "Fluff",
-    "verification": "https://youtu.be/1W9vN_4TxoU",
+    "verifier": "natertot",
+    "verification": "https://www.youtube.com/watch?v=TCSTLJZffSY",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Fluff",
+            "link": "https://youtu.be/1W9vN_4TxoU",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "DarthSkril",
             "link": "https://www.youtube.com/watch?v=RKmgrGn3qoQ",
