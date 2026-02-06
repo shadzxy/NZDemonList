@@ -3,10 +3,16 @@
     "name": "Penombre",
     "author": "Zephirox",
     "creators": ["Zephirox"],
-    "verifier": "Perikite",
-    "verification": " https://youtu.be/uKqWZlMh-gk?si=J7VDrl0YOaHn8Qey",
+    "verifier": "Natertot",
+    "verification": "https://www.youtube.com/watch?v=Fm-W5ti1p7A",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Perikite",
+            "link": "https://youtu.be/uKqWZlMh-gk?si=J7VDrl0YOaHn8Qey",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
