@@ -3,13 +3,19 @@
     "name": "Sigma Interface",
     "author": "Platnuu",
     "creators": ["Platnuu & TeslaX"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=Yci1mDhZmAs",
+    "verifier": "Feijoaoa",
+    "verification": "https://www.youtube.com/watch?v=DzKYA1NXZv4",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Natertot",
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=Yci1mDhZmAs",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "natertot",
             "link": "https://www.youtube.com/watch?v=0dqf9J0w0nc",
             "percent": 100,
             "hz": "(CBF) 480"
