@@ -115,6 +115,12 @@
             "link": "https://www.youtube.com/watch?v=diQI8OHhraE",
             "percent": 100,
             "hz": 165
-        }       
+        },
+         {
+            "user": "seanzfv",
+            "link": "https://www.youtube.com/watch?v=fFL6FS3iAH0",
+            "percent": 100,
+            "hz": 280
+        }
     ]
 }
