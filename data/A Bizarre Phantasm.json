@@ -3,10 +3,16 @@
     "name": "A Bizarre Phantasm",
     "author": "TeamN2",
     "creators": ["Aeidux & More"],
-    "verifier": "natertot",
-    "verification": "https://youtu.be/HIW67LXptIo",
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=OkNjSbodF1Y",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "natertot",
+            "link": "https://www.youtube.com/watch?v=HIW67LXptIo",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
