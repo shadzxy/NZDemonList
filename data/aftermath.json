@@ -3,11 +3,17 @@
     "name": "aftermath",
     "author": "Exenity",
     "creators": ["Exenity & more"],
-    "verifier": "Natertot",
-    "verification": "https://www.youtube.com/watch?v=wtRrP1PS02o",
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=I0Avco9zFNc",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "natertot",
+            "link": "https://www.youtube.com/watch?v=wtRrP1PS02o",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Artaix",
             "link": "https://www.youtube.com/watch?v=8nAoCDvhyHQ",
