@@ -3,11 +3,17 @@
     "name": "Subsonic",
     "author": "ViPriN",
     "creators": ["ViPriN & more"],
-    "verifier": "Extravagon",
-    "verification": "https://youtu.be/aw99_AWr8C0",
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=YaHYtYf5aUA",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=aw99_AWr8C0",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "garrowpop",
             "link": "https://youtu.be/bqPCsm6FQ-U",
