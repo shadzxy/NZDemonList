@@ -3,11 +3,17 @@
     "name": "Allegiance",
     "author": "nikroplays",
     "creators": ["nikroplays"],
-    "verifier": "natertot",
-    "verification": "https://www.youtube.com/watch?v=FVVQKwBkD1M",
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=WZT4bwQdR_Q",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "natertot",
+            "link": "https://www.youtube.com/watch?v=FVVQKwBkD1M",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "Shira",
             "link": "https://www.youtube.com/watch?v=Dco7UIj-lQ8",
