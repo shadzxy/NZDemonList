@@ -3,10 +3,16 @@
     "name": "KINGSLAYER",
     "author": "MothEye",
     "creators": ["MothEye"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=wW8WQBIcDnc",
+    "verifier": "Dominion",
+    "verification": "https://www.youtube.com/watch?v=a366WsUYnL8",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=wW8WQBIcDnc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
