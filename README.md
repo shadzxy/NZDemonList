@@ -13,10 +13,10 @@ These are the people that manage the NZDL. Please contact them if you have any q
 [Artaix](https://www.youtube.com/@Artaix/)
 
 ### List Moderators
-[Customize](https://www.youtube.com/@Customize45), [Dezstro](https://www.youtube.com/@Destroyer0912), [Stainsley](https://www.youtube.com/@stainsley), [Shadz](https://www.youtube.com/@ShadzX)
+[Customize](https://www.youtube.com/@Customize45), [Dezstro](https://www.youtube.com/@Destroyer0912), [Stainsley](https://www.youtube.com/@stainsley), [Shadz](https://www.youtube.com/@shadfoxx)
 
 ### List Developer
-[Shadz](https://www.youtube.com/@ShadzX)
+[Shadz](https://www.youtube.com/@shadfoxx)
 
 ## Submission Requirements
 
