@@ -35,4 +35,4 @@ Completions with Click Between Frames enabled are allowed on the list, however t
 **All top 150 Pointercrate records that are a "New Hardest" must be accepted on Pointercrate before your NZDL record is accepted.
 
 
-Website made by Shadz with the help of [The Shitty List template.](https://github.com/TheShittyList/GDListTemplate) Contact me on discord if you want to request any website changes/report bugs (@shadzhog)
+Website made by Shadz with the help of [The Shitty List template.](https://github.com/TheShittyList/GDListTemplate) Contact me on discord if you want to request any website changes/report bugs (@shadfoxx)
