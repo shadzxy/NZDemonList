@@ -4,20 +4,6 @@
 const scale = 3;
 
 /**
- * Cached list length
- */
-let listLength = 0;
-
-/**
- * Call this once when your app starts
- */
-export async function initListLength() {
-    const res = await fetch("../data/_list.json");
-    const data = await res.json();
-    listLength = data.length;
-}
-
-/**
  * Calculate the score awarded when having a certain percentage on a list level
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
@@ -42,6 +28,8 @@ export function score(rank, percent, minPercent) {
     let score = (-40*Math.pow(rank-1, 0.410) + 500) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
+    listLength = 455
+    
     let t = (rank - 1) / (listLength - 1);
     let score = 1 + (500 - 1) * (1 - Math.pow(t, 0.6));
     
