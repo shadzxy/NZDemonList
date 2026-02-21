@@ -103,6 +103,12 @@
             "link": "https://www.youtube.com/watch?v=O6tTRW6ttnI",
             "percent": 100,
             "hz": 165
-        }        
+        },
+        {
+            "user": "treejay",
+            "link": "https://www.youtube.com/watch?v=dwxi7A2PTKY",
+            "percent": 100,
+            "hz": 60
+        }       
     ]
 }
