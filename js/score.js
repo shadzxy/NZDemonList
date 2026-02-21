@@ -1,3 +1,5 @@
+import { listLength } from './content.js'
+
 /**
  * Numbers of decimal digits to round to
  */
