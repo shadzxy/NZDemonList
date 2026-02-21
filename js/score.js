@@ -24,14 +24,12 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // Newer formula
+    /*
     let score = (-40*Math.pow(rank-1, 0.410) + 500) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-
-    // VVVV POSSIBLE SOLUTION TO THE DOOHICKEY FORMULA ^ UP THERE
-    /*
+    */
     let t = (rank - 1) / (455 - 1);
     let score = 1 + (500 - 1) * (1 - Math.pow(t, 0.6));
-    */
     
 
     score = Math.max(0, score);
