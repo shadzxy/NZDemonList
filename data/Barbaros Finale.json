@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Darthskril",
+            "link": "https://www.youtube.com/watch?v=GkKV9-ctTbo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
