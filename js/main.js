@@ -1,4 +1,5 @@
 import routes from './routes.js';
+import { initListLength } from './score.js';
 
 export const store = Vue.reactive({
     dark: JSON.parse(localStorage.getItem('dark')) || false,
@@ -18,4 +19,5 @@ const router = VueRouter.createRouter({
 
 app.use(router);
 
+await initListLength();
 app.mount('#app');
