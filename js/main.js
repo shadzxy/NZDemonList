@@ -12,12 +12,16 @@ export const store = Vue.reactive({
 const app = Vue.createApp({
     data: () => ({ store }),
 });
+
 const router = VueRouter.createRouter({
     history: VueRouter.createWebHashHistory(),
     routes,
 });
 
 app.use(router);
+app.mount('#app'); // Mount immediately
 
-await initListLength();
-app.mount('#app');
+// Load list length in the background
+initListLength()
+    .then(() => console.log("List length loaded"))
+    .catch(err => console.error("Failed to load list length:", err));
