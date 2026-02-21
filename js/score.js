@@ -42,7 +42,7 @@ export function score(rank, percent, minPercent) {
     let score = (-40*Math.pow(rank-1, 0.410) + 500) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-    let t = (rank - 1) / (list_length - 1);
+    let t = (rank - 1) / (listLength - 1);
     let score = 1 + (500 - 1) * (1 - Math.pow(t, 0.6));
     
 
