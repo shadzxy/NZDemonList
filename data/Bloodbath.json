@@ -150,7 +150,13 @@
             "user": "TB4727",
             "link": "https://youtu.be/Ugem462TNCY",
             "percent": 100,
-            "hz": "240"
+            "hz": 240
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://www.youtube.com/watch?v=vixFfFG1b1U",
+            "percent": 100,
+            "hz": "(CBF) 180"
         }
     ]
 }
