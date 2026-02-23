@@ -1,0 +1,18 @@
+{
+    "id": 119829177,
+    "name": "NYUTOPIA",
+    "author": "Tornabro",
+    "creators": ["Tornabro"],
+    "verifier": "Availax",
+    "verification": "https://www.youtube.com/watch?v=hMYb63IvcoY",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=vAMhNpPFhlg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
