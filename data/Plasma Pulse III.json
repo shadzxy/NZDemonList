@@ -3,11 +3,17 @@
     "name": "Plasma Pulse III",
     "author": "xSmokes",
     "creators": ["xSmokes, Giron"],
-    "verifier": "BOSTONTHEKIDRS",
-    "verification": "https://www.youtube.com/watch?v=fsb82RPdGrc",
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=KlWabFsv4Dw",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "BOSTONTHEKIDRS",
+            "link": "https://www.youtube.com/watch?v=fsb82RPdGrc",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "Phantom GameRz",
             "link": "https://youtu.be/rwRiC47Uc0s?si=B_SxIbZ-Kdnni2AZ",
