@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=QAmvJOGBdxI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "natertot",
+            "link": "https://youtu.be/1b8kD-hA1Is",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
