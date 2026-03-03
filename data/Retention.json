@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "BoldStep",
+            "link": "https://www.youtube.com/watch?v=uDKbG_PNXFY",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
