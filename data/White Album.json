@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=kdghOkfd_pI",
             "percent": 100,
             "hz": "(CBF) 240"
-        }
+        },
+        {
+            "user": "natertot",
+            "link": "https://youtu.be/-SK3d46qQuc",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }
