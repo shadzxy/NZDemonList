@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Phantom GameRz",
+            "link": "https://www.youtube.com/live/ozHPq0rAFd8?si=-4NBhtkJGg6nczgD",
+            "percent": 100,
+            "hz": "(CBS) 120"
+        }
     ]
 }
