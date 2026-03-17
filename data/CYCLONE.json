@@ -3,10 +3,16 @@
     "name": "CYCLONE",
     "author": "BIANOX",
     "creators": ["Enlex & More"],
-    "verifier": "natertot",
-    "verification": "https://www.youtube.com/watch?v=tcVJDVGSZ8w",
+    "verifier": "garrowpop",
+    "verification": "https://www.youtube.com/watch?v=TI74FNt54ts",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "natertot",
+            "link": "https://www.youtube.com/watch?v=tcVJDVGSZ8w",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
