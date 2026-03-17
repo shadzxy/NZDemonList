@@ -3,11 +3,17 @@
     "name": "Incipient",
     "author": "Jenkins",
     "creators": ["Jenkins"],
-    "verifier": "BOSTONTHEKIDRS",
-    "verification": "https://www.youtube.com/watch?v=pSM6C9oFYM0",
+    "verifier": "garrowpop",
+    "verification": "https://youtu.be/cd1ccL--qEA?si=RZ_Il6Vpk8O6phQs",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "BOSTONTHEKIDRS",
+            "link": "https://www.youtube.com/watch?v=pSM6C9oFYM0",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "Shira",
             "link": "https://www.youtube.com/watch?v=PgAgg3X7Xjo",
