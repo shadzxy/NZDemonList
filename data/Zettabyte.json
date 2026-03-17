@@ -3,10 +3,16 @@
     "name": "Zettabyte",
     "author": "Jenkins",
     "creators": ["Jenkins"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=rI6uerd9vg0",
+    "verifier": "garrowpop",
+    "verification": "https://youtu.be/peVmSCVtqsE?si=yEmASz3fnCWhg-bg",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=rI6uerd9vg0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
