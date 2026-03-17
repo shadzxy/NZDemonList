@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "garrowpop",
+            "link": "https://www.youtube.com/watch?v=qe8zIHrwx8E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Stainsley",
             "link": "https://www.youtube.com/watch?v=YQX6L9Ns1C0",
             "percent": 100,
