@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/KUfLSR4Gokc?si=ZlvuNTdQ9Rq_X94t",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
