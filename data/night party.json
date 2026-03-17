@@ -3,10 +3,16 @@
     "name": "night party",
     "author": "Rlol",
     "creators": ["Rlol"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=CVJoEeV8FfY",
+    "verifier": "garrowpop",
+    "verification": "https://www.youtube.com/watch?v=F1U_eJv0M4Y",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=CVJoEeV8FfY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
