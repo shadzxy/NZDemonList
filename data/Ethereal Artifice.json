@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=L_HQ6fX2SiI",
             "percent": 100,
             "hz": 165
-        }        
+        },
+        {
+            "user": "Phantomm",
+            "link": "https://youtu.be/seCjxGyj0L0?si=pWbjlj6pn56HhKS2",
+            "percent": 100,
+            "hz": 120
+        }  
     ]
 }
