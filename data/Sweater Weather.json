@@ -42,7 +42,13 @@
             "user": "J1gsaw",
             "link": "https://youtu.be/cMP3W89SPvI",
             "percent": 100,
-            "hz": "240"
+            "hz": 240
+        },
+        {
+            "user": "Phantomm",
+            "link": "https://youtu.be/-PJC2vx9reg?si=9tQvc4tJdquQ6Pe0",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
