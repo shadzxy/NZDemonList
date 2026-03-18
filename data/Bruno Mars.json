@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "natertot",
+            "link": "https://youtu.be/R_nNHuZJSLA",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
