@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "314120",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/GQODwcYqjqU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
