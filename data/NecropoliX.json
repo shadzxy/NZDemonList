@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "GanaiGD",
+            "link": "https://www.youtube.com/watch?v=5u8hFgYPP4o&t=15s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
