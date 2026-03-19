@@ -127,6 +127,12 @@
             "link": "https://www.youtube.com/watch?v=dwxi7A2PTKY",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "GanaiGD",
+            "link": "https://www.youtube.com/watch?v=0fWutyQ2e_A&t=24s",
+            "percent": 100,
+            "hz": 240
         }       
     ]
 }
