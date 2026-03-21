@@ -3,10 +3,16 @@
     "name": "RIVERS OF NAZARETH",
     "author": "AudieoVisual",
     "creators": ["AudieoVisual"],
-    "verifier": "Popidon",
+    "verifier": "RYAMU",
     "verification": "https://youtu.be/O6Iz-A9BCI4?si=THDc-mN3paAafk-j",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Popidon",
+            "link": "https://www.youtube.com/watch?v=O6Iz-A9BCI4",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
