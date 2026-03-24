@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Breakthrough",
+            "link": "https://www.youtube.com/watch?v=_pFesdR3bm0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Dezstro",
             "link": "https://www.youtube.com/watch?v=-dXfcQJamHk",
             "percent": 100,
