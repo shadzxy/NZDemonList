@@ -1,0 +1,18 @@
+{
+    "id": 60289382,
+    "name": "Falcon16",
+    "author": "LIEB",
+    "creators": ["Isane & More"],
+    "verifier": "garrowpop",
+    "verification": "https://youtu.be/Q8TWiwNddTc",  
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "stainsley",
+            "link": "https://youtu.be/FlamxzyVZLA",
+            "percent": 100,
+            "hz": 480
+        },
+    ]
+}
