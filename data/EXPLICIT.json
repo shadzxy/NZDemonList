@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=vVplpKC7mJQ",
             "percent": 100,
             "hz": "(CBF) 1500"
+        },
+        {
+            "user": "slack",
+            "link": "https://www.youtube.com/watch?v=paCvq2_HiYU",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
