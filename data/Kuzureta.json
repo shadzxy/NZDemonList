@@ -19,6 +19,18 @@
             "link": "https://www.youtube.com/watch?v=1uN-k0GRCr4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=IrJvpBB4Y7k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shadz",
+            "link": "https://youtube.com/watch?v=VZGaKFXbzwU",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
