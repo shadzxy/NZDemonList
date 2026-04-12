@@ -145,6 +145,12 @@
             "link": "https://www.youtube.com/watch?v=0fWutyQ2e_A&t=24s",
             "percent": 100,
             "hz": 240
-        }       
+        },
+        {
+            "user": "slack",
+            "link": "https://www.youtube.com/watch?v=fJzLWUcdSww",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
