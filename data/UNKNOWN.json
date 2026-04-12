@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "TheFireInside",
+            "link": "https://youtu.be/AJTLRLtx1Zc?si=fbjEqNnNaMpOh8AJ",
+            "percent": 100,
+            "hz": 1500
+        }
     ]
 }
