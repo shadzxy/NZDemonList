@@ -73,6 +73,12 @@
             "link": "https://www.youtube.com/watch?v=XdQvcOklFI0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "FoldedZero",
+            "link": "https://youtu.be/Tf9nUwA0ExM",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
