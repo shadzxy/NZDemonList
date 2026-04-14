@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Breakthrough",
+            "link": "https://www.youtube.com/watch?v=piwdteld0-Y",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Perikite",
             "link": "https://youtu.be/o2hyFIRU-ns?si=WovkIbgZT3hdqUiU",
             "percent": 100,
