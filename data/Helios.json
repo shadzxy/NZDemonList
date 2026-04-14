@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Breakthrough",
+            "link": "https://www.youtube.com/watch?v=Yyh4A_5rT0Y",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "TheFireInside",
             "link": "https://youtu.be/t7aWJ0kIhCE?si=ur4ZxBpIu8Y6Mymo",
             "percent": 100,
