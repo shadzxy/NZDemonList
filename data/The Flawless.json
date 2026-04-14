@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "C4elan",
+            "link": "https://www.youtube.com/watch?v=hfhJuQYVf90",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Fluff",
             "link": "https://www.youtube.com/watch?v=84nfl99F4mA",
             "percent": 100,
