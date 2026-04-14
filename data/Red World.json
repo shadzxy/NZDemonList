@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Phantomm",
+            "link": "https://youtu.be/U-VLhXK9FqA?si=9t5Hl1zc7DYnUAbJ",
+            "percent": 100,
+            "hz": "120"
+        },
+        {
             "user": "Dezstro",
             "link": "https://www.youtube.com/watch?v=3Yb5FlpF-0k",
             "percent": 100,
@@ -21,10 +27,10 @@
             "hz": "(CBF) 240"
         },
          {
-            "user": "Phantomm",
-            "link": "https://youtu.be/U-VLhXK9FqA?si=9t5Hl1zc7DYnUAbJ",
+            "user": "C4elan",
+            "link": "https://www.youtube.com/watch?v=WqpviXqRJ7w",
             "percent": 100,
-            "hz": "120"
-        }       
+            "hz": 240
+        }
     ]
 }
