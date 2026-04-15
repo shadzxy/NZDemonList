@@ -3,10 +3,16 @@
     "name": "Tech Manifestation",
     "author": "Pleoslim",
     "creators": ["Makfeed & Pleoslim"],
-    "verifier": "Shadz",
-    "verification": "https://www.youtube.com/watch?v=8SaUu_60kDE&t=57s",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=oS09fEeLMWk",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=8SaUu_60kDE&t=57s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
