@@ -3,14 +3,14 @@
     "name": "JeonGi",
     "author": "Lebi06",
     "creators": ["Lebi06"],
-    "verifier": "kate",
-    "verification": "https://youtu.be/Cx1QJ5nfEM0?si=yIZoEPZ7fmFWyIjH",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=IGqe69F5w3A"",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Extravagon",
-            "link": "https://www.youtube.com/watch?v=IGqe69F5w3A",
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=Cx1QJ5nfEM0",
             "percent": 100,
             "hz": 240
         }
