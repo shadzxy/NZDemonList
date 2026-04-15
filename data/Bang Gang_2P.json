@@ -1,0 +1,18 @@
+{
+    "id": 56916170,
+    "name": "Bang Gang (2P)",
+    "author": "DanZmeN",
+    "creators": ["DanZmeN"],
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=nzV4DDOQBF4",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://www.youtube.com/watch?v=nzV4DDOQBF4",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
