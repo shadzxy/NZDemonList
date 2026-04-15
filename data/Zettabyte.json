@@ -3,11 +3,17 @@
     "name": "Zettabyte",
     "author": "Jenkins",
     "creators": ["Jenkins"],
-    "verifier": "garrowpop",
-    "verification": "https://youtu.be/peVmSCVtqsE?si=yEmASz3fnCWhg-bg",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=1BLAms2zewk",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/peVmSCVtqsE?si=yEmASz3fnCWhg-bg",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "Shira",
             "link": "https://www.youtube.com/watch?v=rI6uerd9vg0",
