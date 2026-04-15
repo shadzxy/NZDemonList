@@ -3,10 +3,16 @@
     "name": "SUBVERSIVE",
     "author": "Snowr33de",
     "creators": ["Snowr33de & More"],
-    "verifier": "DarthSkril",
-    "verification": "https://www.youtube.com/watch?v=xyKjSu5cKhA",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=u4fE4yBrHJo",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=xyKjSu5cKhA",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
