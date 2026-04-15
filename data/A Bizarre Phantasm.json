@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=HIW67LXptIo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=4ZxkJ7MmP_0",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
