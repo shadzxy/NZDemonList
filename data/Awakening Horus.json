@@ -3,11 +3,17 @@
     "name": "Awakening Horus",
     "author": "Juhou",
     "creators": ["Juhou & Xingtik"],
-    "verifier": "garrowpop",
-    "verification": "https://youtu.be/GcM3Jz5MADY?si=IR21V6A-uMryz2cE",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=4dqwQ0irl0M",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/GcM3Jz5MADY?si=IR21V6A-uMryz2cE",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "Breakthrough",
             "link": "https://www.youtube.com/watch?v=XkP5fFWyrmk",
