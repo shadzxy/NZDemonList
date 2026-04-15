@@ -3,11 +3,17 @@
     "name": "Daydream",
     "author": "Yendis",
     "creators": ["Yendis"],
-    "verifier": "garrowpop",
-    "verification": "https://www.youtube.com/watch?v=i1HBzqLBgdE",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=ouPkDuIlwPY",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://www.youtube.com/watch?v=i1HBzqLBgdE",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "natertot",
             "link": "https://youtu.be/P11XBKeoN9o",
