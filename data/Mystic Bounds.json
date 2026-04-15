@@ -3,22 +3,22 @@
     "name": "Mystic Bounds",
     "author": "gmdmann",
     "creators": ["gmdmann"],
-    "verifier": "Kinetik",
-    "verification": "https://www.youtube.com/watch?v=3jpFR12tDts",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=LpFY3737gQE",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Kinetik",
+            "link": "https://www.youtube.com/watch?v=3jpFR12tDts",
+            "percent": 100,
+            "hz": 165
+        },
         {
             "user": "Phantomm",
             "link": "https://youtu.be/5p83BlrcueA?si=ytRdzvXjqTQEwxvB",
             "percent": 100,
             "hz": 120
-        },
-        {
-            "user": "Extravagon",
-            "link": "https://www.youtube.com/watch?v=LpFY3737gQE",
-            "percent": 100,
-            "hz": 480
         }
     ]
 }
