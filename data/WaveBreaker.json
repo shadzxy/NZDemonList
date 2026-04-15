@@ -3,10 +3,16 @@
     "name": "WaveBreaker",
     "author": "Lemons",
     "creators": ["Lemons & More"],
-    "verifier": "kate",
-    "verification": "https://www.youtube.com/watch?v=ErQhO_WcIm4",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=sEpdBvqzX94",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=ErQhO_WcIm4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
