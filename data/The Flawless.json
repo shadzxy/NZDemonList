@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=3fCRFqJiros",
+            "percent": 100,
+            "hz": 144
+        },
+        {
             "user": "C4elan",
             "link": "https://www.youtube.com/watch?v=hfhJuQYVf90",
             "percent": 100,
