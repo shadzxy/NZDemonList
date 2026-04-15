@@ -1,0 +1,18 @@
+{
+    "id": 59134257,
+    "name": "Delebit Oblivio",
+    "author": "TeamSmokeWeed",
+    "creators": ["Olympic & More"],
+    "verifier": "Artaix",
+    "verification": "https://www.youtube.com/watch?v=7CBomCiUUqA",  
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=2GiuOkKaS7M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
