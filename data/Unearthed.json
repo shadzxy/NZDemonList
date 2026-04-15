@@ -3,11 +3,17 @@
     "name": "Unearthed",
     "author": "YakobNugget",
     "creators": ["YakobNugget & More"],
-    "verifier": "garrowpop",
-    "verification": "https://www.youtube.com/watch?v=qJeaAXofiaI",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=AYWI67hOiao",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://www.youtube.com/watch?v=qJeaAXofiaI",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "BOSTONTHEKIDRS",
             "link": "https://www.youtube.com/watch?v=PAtZFh_wJhw",
