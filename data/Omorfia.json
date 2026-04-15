@@ -3,10 +3,16 @@
     "name": "Omorfia",
     "author": "HHyper",
     "creators": ["HHyper"],
-    "verifier": "garrowpop",
-    "verification": "https://youtu.be/65aoufNHLAw?si=uUs4QANpb25KzluE",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=KB44QKemTXg",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/65aoufNHLAw?si=uUs4QANpb25KzluE",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
