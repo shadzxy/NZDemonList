@@ -3,14 +3,14 @@
     "name": "Komodo",
     "author": "Espii",
     "creators": ["Espii"],
-    "verifier": "kate",
-    "verification": "https://www.youtube.com/watch?v=0R_6wLqDUMc",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=-g8zIaJS5Zc",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Extravagon",
-            "link": "https://www.youtube.com/watch?v=-g8zIaJS5Zc",
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?v=0R_6wLqDUMc",
             "percent": 100,
             "hz": 240
         }
