@@ -3,10 +3,16 @@
     "name": "Skrrah",
     "author": "VirtualCrack",
     "creators": ["VirtualCrack & More"],
-    "verifier": "DarthSkril",
-    "verification": "https://www.youtube.com/watch?v=qBHpdcUFi2k",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=peDPDRZ9n8Y",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "DarthSkril",
+            "link": "https://www.youtube.com/watch?v=qBHpdcUFi2k",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
