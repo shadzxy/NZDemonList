@@ -3,16 +3,16 @@
     "name": "robotchief exposal",
     "author": "Madeliene",
     "creators": ["Madeliene, robotchief, Umbra717"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=X4NYpD1bJ2I",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=9Rump_nMVn0",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Extravagon",
-            "link": "https://www.youtube.com/watch?v=9Rump_nMVn0",
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=X4NYpD1bJ2I",
             "percent": 100,
-            "hz": 240
+            "hz": 480
         }
     ]
 }
