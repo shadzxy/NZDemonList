@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Extravagon",
+            "link": "https://www.youtube.com/watch?v=kmq0v31hG1Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Phantomm",
             "link": "https://youtu.be/fnxE7Rq5MlM?si=OcXola4maF-vvlSF",
             "percent": 100,
