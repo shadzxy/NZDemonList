@@ -3,10 +3,16 @@
     "name": "Novasphere",
     "author": "NeyvaShift",
     "creators": ["NeyvaShift"],
-    "verifier": "garrowpop",
-    "verification": "https://youtu.be/Cq00_No7Zq4",
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=pXOWRZ0uMY4",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/Cq00_No7Zq4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
