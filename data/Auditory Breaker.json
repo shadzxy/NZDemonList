@@ -61,6 +61,12 @@
             "link": "https://youtu.be/8bmqktshBjk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kate",
+            "link": "https://youtu.be/PXWGYXnlVEM",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
