@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=_SQ5s5bsP3w",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "CosmicLucas",
+            "link": "https://youtu.be/LWaEU5FxRRE",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
