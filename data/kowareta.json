@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=dZSym2MKdSY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "blanketman42",
+            "link": "https://youtu.be/zVg6n-lU-4o",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
