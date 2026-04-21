@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=d50VItZe1AI",
             "percent": 100,
             "hz": 240
-        }      
+        },
+         {
+            "user": "Artaix",
+            "link": "https://www.youtube.com/watch?v=iqYsaUKamiQ",
+            "percent": 100,
+            "hz": 240
+        }  
     ]
 }
