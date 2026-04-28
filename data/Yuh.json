@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Breakthrough",
+            "link": "https://www.youtube.com/watch?v=rc34O85WMVQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
