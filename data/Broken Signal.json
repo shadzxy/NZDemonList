@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=zW_pcgGkskg",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "Breakthrough",
+            "link": "https://www.youtube.com/watch?v=hIM31HJ-3kA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
