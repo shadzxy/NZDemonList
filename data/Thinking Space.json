@@ -27,10 +27,16 @@
             "hz": "240"
           },
           {
-            "user": "Natertot",
+            "user": "natertot",
             "link": "https://www.youtube.com/watch?v=H5qdJNolA5k&pp=2AYE0gcJCYcKAYcqIYzv",
             "percent": 100,
             "hz": "(CBF) 480"
+          },
+          {
+            "user": "zTenKeyLess",
+            "link": "https://youtu.be/9jaWLaNi-58",
+            "percent": 100,
+            "hz": 240
           }
     ]
 }
