@@ -3,16 +3,16 @@
     "name": "helios",
     "author": "Canonlaw",
     "creators": ["Canonlaw & More"],
-    "verifier": "Perikite",
-    "verification": "https://youtu.be/uAh5UIeJSpc?si=M_lyxrYBK1CBEC_D",
+    "verifier": "Breakthrough",
+    "verification": "https://www.youtube.com/watch?v=Yyh4A_5rT0Y",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Breakthrough",
+            "user": "Perikite",
             "link": "https://www.youtube.com/watch?v=Yyh4A_5rT0Y",
             "percent": 100,
-            "hz": 60
+            "hz": 240
         },
         {
             "user": "TheFireInside",
