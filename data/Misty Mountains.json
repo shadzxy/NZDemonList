@@ -3,16 +3,16 @@
     "name": "Misty Mountains",
     "author": "We4therMan",
     "creators": ["We4therMan"],
-    "verifier": "natertot",
-    "verification": "https://youtu.be/WdpsAPFQQ8A?si=bFCughKttwkE4_FO",
+    "verifier": "Breakthrough",
+    "verification": "https://www.youtube.com/watch?v=khDdeeJrkRk",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "Breakthrough",
-            "link": "https://www.youtube.com/watch?v=khDdeeJrkRk",
+            "user": "natertot",
+            "link": "https://www.youtube.com/watch?v=WdpsAPFQQ8A",
             "percent": 100,
-            "hz": 60
+            "hz": 144
         },
         {
             "user": "Stainsley",
