@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+          {
+            "user": "caelan",
+            "link": "https://www.youtube.com/watch?v=f_yOlROWlOY",
+            "percent": 100,
+            "hz": 480
+        },
     ]
 }
