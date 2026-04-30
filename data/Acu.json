@@ -160,9 +160,15 @@
         },
         {
             "user": "Sx472",
-            "link": "https://youtu.be/qq-vgEpWsD4?si=fI5P0EEOdoWjQII0",
+            "link": "https://youtu.be/qq-vgEpWsD4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ReLog583",
+            "link": "https://youtu.be/GaOBvO5PLAI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
