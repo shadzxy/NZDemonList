@@ -175,6 +175,12 @@
             "link": "https://www.youtube.com/watch?v=4sLyNAxYx-g&t=1s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "CosmicLucas",
+            "link": "https://youtu.be/x4np1cgPPNU",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
