@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=DK_aaTg2yG0",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "garrowpop",
+            "link": "https://youtu.be/0Itxv8H_aQw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
