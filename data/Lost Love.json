@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Hyperex",
+            "link": "https://www.youtube.com/watch?v=fVSZAWHl2CM",
+            "percent": 100,
+            "hz": 288
+        },
+        {
             "user": "Perikite",
             "link": "https://youtu.be/bC1vx8aQSqg",
             "percent": 100,
