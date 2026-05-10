@@ -3,10 +3,16 @@
     "name": "Ion",
     "author": "shmigles",
     "creators": ["shmigles"],
-    "verifier": "kate",
-    "verification": "https://youtu.be/kOVp4CkeJ-4?si=Mo4tKNCmuaVa6gNI",
+    "verifier": "Hyperex",
+    "verification": "https://www.youtube.com/watch?v=1LdCGoeMnZ0",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kate",
+            "link": "https://youtu.be/kOVp4CkeJ-4?si=Mo4tKNCmuaVa6gNI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
