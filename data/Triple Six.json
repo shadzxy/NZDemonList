@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+          {
+            "user": "Hyperex",
+            "link": "https://www.youtube.com/watch?v=aqRxkyPfeAE",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
