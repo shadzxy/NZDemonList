@@ -8,17 +8,23 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-    {
-    "user": "TheFireInside",
-    "link": "https://youtu.be/ffx46AmL0Mg?si=SqCQD5U7foJl7467",
-    "percent": 100,
-    "hz": 1500
-    },
-    {
-    "user": "Phantomm",
-    "link": "https://youtu.be/FKatCUdugnc?si=XD4nXxL8PZpXQIbL",
-    "percent": 100,
-    "hz": 120
-    }
+        {
+            "user": "TheFireInside",
+            "link": "https://youtu.be/ffx46AmL0Mg?si=SqCQD5U7foJl7467",
+            "percent": 100,
+            "hz": 1500
+        },
+        {
+            "user": "Phantomm",
+            "link": "https://youtu.be/FKatCUdugnc?si=XD4nXxL8PZpXQIbL",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=ld-iNPvWbSU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
