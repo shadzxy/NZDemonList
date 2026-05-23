@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "CosmicLucas",
+            "link": "https://youtu.be/VnB79sartZ0",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
