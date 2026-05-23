@@ -1,0 +1,18 @@
+{
+    "id": 127023313,
+    "name": "DISCONNECT",
+    "author": "MCres",
+    "creators": ["MCres"],
+    "verifier": "TheFireInside",
+    "verification": "https://www.youtube.com/watch?v=AmIgYh6mvgQ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantomm",
+            "link": "https://youtu.be/xhs6XLjiSnA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
