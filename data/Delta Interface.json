@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=UpBkKgtDA94",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=YPNasXPKVlA",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
