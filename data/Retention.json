@@ -9,16 +9,22 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "BoldStep",
+            "link": "https://www.youtube.com/watch?v=uDKbG_PNXFY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
             "user": "Breakthrough",
             "link": "https://www.youtube.com/watch?v=Ev1O62D2IL0",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "BoldStep",
-            "link": "https://www.youtube.com/watch?v=uDKbG_PNXFY",
+            "user": "Customize45",
+            "link": "https://youtu.be/CDP0NnWuOsU",
             "percent": 100,
-            "hz": 144
-        }
+            "hz": 60
+        },
     ]
 }
