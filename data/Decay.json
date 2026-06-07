@@ -3,11 +3,17 @@
     "name": "Decay",
     "author": "KiwiPenguin",
     "creators": ["KiwiPenguin"],
-    "verifier": "Shira",
-    "verification": "https://www.youtube.com/watch?v=gbVv2d3nZyE",
+    "verifier": "Customize45",
+    "verification": "https://www.youtube.com/watch?v=MDPEx6paOww",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=gbVv2d3nZyE",
+            "percent": 100,
+            "hz": 165
+        },
         {
             "user": "ReLog583",
             "link": "https://youtu.be/YXHOiV1cIkw?si=XfgrF4UfjzVjqDZD",
