@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Customize45",
+            "link": "https://youtu.be/OaGbplXeAw8",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
