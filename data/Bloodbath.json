@@ -193,6 +193,12 @@
             "link": "https://www.youtube.com/watch?v=i9SS_DamdZU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Norficade",
+            "link": "https://youtu.be/UBavOUnl0uI",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
