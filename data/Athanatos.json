@@ -79,6 +79,12 @@
             "link": "https://youtu.be/djK-S44Pbm8YouTube",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Ganai",
+            "link": "https://www.youtube.com/watch?v=RdqT5kXeh68",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
