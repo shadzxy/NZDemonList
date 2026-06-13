@@ -154,9 +154,15 @@
         },
          {
             "user": "Harl.NZ",
-            "link": "https://www.youtube.com/watch?v=JGnSV48-4ck ",
+            "link": "https://www.youtube.com/watch?v=JGnSV48-4ck",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "Ganai",
+            "link": "https://www.youtube.com/watch?v=k1Eh05U5l2w",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
