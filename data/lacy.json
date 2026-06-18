@@ -9,16 +9,22 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "Perikite",
-            "link": "https://youtu.be/EyehA9JXpf4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Customize45",
             "link": "https://youtu.be/lXuLp3FPk5w",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "LunarLotus",
+            "link": "https://www.youtube.com/watch?v=2CcaCPluysk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Perikite",
+            "link": "https://youtu.be/EyehA9JXpf4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
