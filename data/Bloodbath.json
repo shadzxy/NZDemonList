@@ -205,6 +205,12 @@
             "link": "https://www.youtube.com/watch?v=4sLyNAxYx-g",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "LunarLotus",
+            "link": "https://www.youtube.com/watch?v=6M7VLTeal2s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
