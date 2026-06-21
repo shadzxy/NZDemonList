@@ -3,11 +3,17 @@
     "name": "Hopping Over Puddles",
     "author": "J27Blaze",
     "creators": ["J27Blaze"],
-    "verifier": "kate",
-    "verification": "https://www.youtube.com/watch?si=2EVZm72WMB9ik-rS&v=3LKqh4Hjq0o&feature=youtu.be",
+    "verifier": "LunarLotus",
+    "verification": "https://www.youtube.com/watch?v=yG_jkfjG-gE",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?si=2EVZm72WMB9ik-rS&v=3LKqh4Hjq0o&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Popidon",
             "link": "https://youtu.be/tVTlXQM9wdQ?si=wf7P7629oI5z9F_0",
