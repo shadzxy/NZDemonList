@@ -3,11 +3,17 @@
     "name": "Stellaluna",
     "author": "SamMaxx",
     "creators": ["SamMaxx"],
-    "verifier": "kate",
-    "verification": "https://www.youtube.com/watch?si=a3BvoWisvWC_Q8yj&v=sMkUelYh-qw&feature=youtu.be",
+    "verifier": "LunarLotus",
+    "verification": "https://www.youtube.com/watch?v=L1khv_SkL_c",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "kate",
+            "link": "https://www.youtube.com/watch?si=a3BvoWisvWC_Q8yj&v=sMkUelYh-qw&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Fluff",
             "link": "https://youtu.be/FklwSGK25M4",
