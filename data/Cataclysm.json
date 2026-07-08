@@ -163,6 +163,12 @@
             "link": "https://www.youtube.com/watch?v=k1Eh05U5l2w",
             "percent": 100,
             "hz": 144
+        },
+         {
+            "user": "derpbrine",
+            "link": "https://www.youtube.com/watch?v=BK3E3awufCA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
