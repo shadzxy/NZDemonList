@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "800850",
     "records": [
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=rHSQeJwU7xQ",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
