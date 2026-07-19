@@ -193,6 +193,12 @@
             "link": "https://www.youtube.com/watch?v=QGJ-0svOO28",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "tuffchippy",
+            "link": "https://youtu.be/9m8PnlFPjTk",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
