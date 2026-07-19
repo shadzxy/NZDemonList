@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=5GRgMKaTzms",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Perikite",
+            "link": "https://www.youtube.com/watch?v=rEQhYArKnm0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
