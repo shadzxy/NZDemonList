@@ -17,8 +17,8 @@
         {
             "user": "Blayne",
             "link": "https://youtu.be/sgjyLfGjiD8",
-            "percent": "*100",
-            "hz": 240
+            "percent": 100,
+            "hz": "*** 240"
         }
     ]
 }
