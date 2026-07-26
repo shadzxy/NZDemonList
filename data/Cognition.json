@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=6KDl9LNCCYE",
             "percent": 100,
             "hz": "(CBF) 480"
-        }   
+        },
+        {
+            "user": "garrowpop",
+            "link": "https://www.youtube.com/watch?v=eIDV7oGr7D4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
