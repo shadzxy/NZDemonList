@@ -25,6 +25,12 @@
             "link": "https://youtu.be/TUQFZYXAXjw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "zom",
+            "link": "https://www.youtube.com/watch?v=XoeXLt2lBS8",
+            "percent": 100,
+            "hz": 432
         }
     ]
 }
