@@ -9,8 +9,20 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "Shadz",
+            "link": "https://www.youtube.com/watch?v=wwZ7ov6_Itk",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "zTenKeyLess",
             "link": "https://www.youtube.com/watch?v=Ya1Xwaf4MAA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=9r7HncG4Esg",
             "percent": 100,
             "hz": 240
         }
