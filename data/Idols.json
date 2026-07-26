@@ -37,6 +37,12 @@
             "link": "https://youtu.be/TNsZGbjrkrE?si=ximeDTMAbDiCILEC",
             "percent": 100,
             "hz": 2000
+        },
+        {
+            "user": "zom",
+            "link": "https://www.youtube.com/watch?v=biqv7QO3N0U",
+            "percent": 100,
+            "hz": 432
         }
     ]
 }
