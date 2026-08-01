@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=YPNasXPKVlA",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "C4elan",
+            "link": "https://www.youtube.com/watch?v=0wzk2CnnuyY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
