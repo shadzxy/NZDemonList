@@ -3,10 +3,16 @@
     "name": "Twisted Tranquility",
     "author": "Flukester",
     "creators": ["Flukester & More"],
-    "verifier": "Extravagon",
-    "verification": "https://www.youtube.com/watch?v=VR3ToH-oEDU",
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/TiaOm9j36Pg",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Extravagon",
+            "link": "https://youtu.be/VR3ToH-oEDU",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
