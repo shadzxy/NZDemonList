@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Beanus",
+            "link": "https://www.youtube.com/watch?v=1e9KuDP8YpU",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
