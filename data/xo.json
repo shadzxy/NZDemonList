@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "000007",
     "records": [
+        {
+            "user": "Beanus",
+            "link": "https://www.youtube.com/watch?v=ozu4-UcVPWs&t=75s&pp=0gcJCaMLAYcqIYzv",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
