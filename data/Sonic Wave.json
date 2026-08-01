@@ -91,6 +91,12 @@
             "link": "https://youtu.be/ocYsgQV59BI",
             "percent": 100,
             "hz": 1500
+        },
+        {
+            "user": "Beanus",
+            "link": "https://www.youtube.com/watch?v=YrTt4eJVv28&t=3s",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
