@@ -1,0 +1,42 @@
+{
+    "id": 107341811,
+    "name": "Prismatic",
+    "author": "CatGeo",
+    "creators": ["CatGeo"],
+    "verifier": "availax",
+    "verification": "https://youtu.be/3xJ-znOBfco",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+      {
+            "user": "QwertyQwertz",
+            "link": "https://youtu.be/VF6fZ7YaK8U",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Slapfaces",
+            "link": "https://youtu.be/ai3P5qAUsIM",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "R4IL",
+            "link": "https://youtu.be/4NTZCGrGh_o",
+            "percent": 100,
+            "hz": 280
+        },
+      {
+            "user": "Beanus",
+            "link": "https://youtu.be/Bsdy1xZGIlI",
+            "percent": 100,
+            "hz": 480
+        },
+      {
+            "user": "Sx472",
+            "link": "https://youtu.be/PELgfX378dA",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
