@@ -1,0 +1,18 @@
+{
+    "id": 80335620,
+    "name": "Reanimate",
+    "author": "ILNM",
+    "creators": ["ILNM & More"],
+    "verifier": "nCorr",
+    "verification": "https://youtu.be/oc3_op01Fw0",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+      {
+            "user": "Customize45",
+            "link": "https://youtu.be/9-D6AgGjrQ4",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
