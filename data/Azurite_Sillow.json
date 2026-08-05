@@ -85,6 +85,18 @@
             "link": "https://www.youtube.com/watch?v=p3PYYzmhOxE",
             "percent": 100,
             "hz": 480
+        },
+         {
+            "user": "Customize45",
+            "link": "https://youtu.be/0rgO0vRmdYo",
+            "percent": 100,
+            "hz": 288
+        },
+         {
+            "user": "Shadz",
+            "link": "",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
