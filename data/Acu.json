@@ -211,6 +211,12 @@
             "link": "https://www.youtube.com/watch?v=Xqifc3KkQWA",
             "percent": 100,
             "hz": 1000
+        },
+        {
+            "user": "Jenius",
+            "link": "https://youtu.be/V1hwBvlYdks",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
