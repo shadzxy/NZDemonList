@@ -25,6 +25,18 @@
             "link": "https://youtu.be/6SCS0YHAHCQ",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Shira",
+            "link": "https://www.youtube.com/watch?v=fis_KbuE_7o",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Phantomm",
+            "link": "https://youtu.be/EdKjt0tN77o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
