@@ -18,7 +18,13 @@
             "user": "Maps",
             "link": "https://youtu.be/S7RMJxX75oQ?si=UtSRi2lHWfPUAnqS",
             "percent": 100,
-            "hz": "CBS 60"
+            "hz": 60
+        },
+        {
+            "user": "Kelix",
+            "link": "https://youtu.be/UbZZ-NsbYkY?si=YMHWZd_0BPS-GRwB",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
