@@ -1,0 +1,30 @@
+{
+    "id": 146399247,
+    "name": "rauchkammer",
+    "author": "Devilmine",
+    "creators": ["Devilmine"],
+    "verifier": "Phantomm",
+    "verification": "https://youtu.be/We6omK3kADs",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "TB4727",
+            "link": "https://youtu.be/PswIbOA69D8",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "C4elan",
+            "link": "https://vt.tiktok.com/ZSVkWoGtp/",
+            "percent": 100,
+            "hz": 240
+        },
+            {
+            "user": "Shira",
+            "link": "https://youtu.be/JMPClHJK1sI?si=PW4pyL5B3kOZlMVL",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
