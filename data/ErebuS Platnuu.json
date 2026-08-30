@@ -46,10 +46,15 @@
         },
         {
             "user": "zTenKeyLess",
-            "link": "https://youtu.be/BqIjVxmFF1A&t=111",
+            "link": "https://www.youtube.com/watch?v=BqIjVxmFF1A",
             "percent": 100,
             "hz": 240
         },
-
+        {
+            "user": "Phantomm",
+            "link": "https://www.youtube.com/watch?v=BsGZxRXGhqo&t=111",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
