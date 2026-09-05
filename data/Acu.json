@@ -217,6 +217,12 @@
             "link": "https://youtu.be/V1hwBvlYdks",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "R4IL",
+            "link": "https://www.youtube.com/watch?v=ETlD_s_CHXo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
