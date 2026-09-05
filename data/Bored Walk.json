@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Kelix",
+            "link": "https://www.youtube.com/watch?v=krw_ah6Y98o",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
