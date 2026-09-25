@@ -223,6 +223,12 @@
             "link": "https://www.youtube.com/watch?v=ETlD_s_CHXo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kelix",
+            "link": "https://youtu.be/h0-ZA1CLvE0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
