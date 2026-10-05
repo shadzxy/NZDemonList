@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=BB8Fjwm4GGY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Stainsley",
+            "link": "https://youtu.be/S4EYHefIdnA",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
