@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=nzV4DDOQBF4",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "R4IL",
+            "link": "https://youtu.be/FiwtzcU9X_g",
+            "percent": 100,
+            "hz": 720
+        },
+        {
+            "user": "Corfner468",
+            "link": "https://www.youtube.com/watch?v=OleGm4D0jbU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
