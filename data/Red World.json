@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=f28oJzZoQwQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "TheFireInside",
+            "link": "https://www.youtube.com/watch?v=u8Ma3joX4Ms",
+            "percent": 100,
+            "hz": 1500
         }
     ]
 }
