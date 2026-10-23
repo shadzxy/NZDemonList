@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=ENGJxEsS-aU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kelix",
+            "link": "https://www.youtube.com/watch?v=AyPkj0vbJmU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
