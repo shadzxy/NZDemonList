@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=BsGZxRXGhqo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "R4IL",
+            "link": "https://www.youtube.com/watch?v=sOfaJPDJ-6M",
+            "percent": 100,
+            "hz": 720
         }
     ]
 }
