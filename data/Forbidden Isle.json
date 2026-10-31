@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=wQUbBlR00Eo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jenius",
+            "link": "https://youtu.be/jJRijCY1X38",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
