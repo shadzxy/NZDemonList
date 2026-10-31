@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=VPB89mb0PJ8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Maps",
+            "link": "https://youtu.be/i0FxMfy_xsY?si=ITDdbd0l6gMSObEG",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
