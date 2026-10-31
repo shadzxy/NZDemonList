@@ -16,15 +16,21 @@
         },
         {
             "user": "CosmicLucas",
-            "link": " https://youtu.be/_wmqOEIhwRA?si=A2PAzuiLsqmZ5GI3",
+            "link": "https://youtu.be/_wmqOEIhwRA?si=A2PAzuiLsqmZ5GI3",
             "percent": 100,
             "hz": 120
         },
         {
             "user": "TheFireInside",
-            "link": " https://youtu.be/a2zL_AjBaBg",
+            "link": "https://youtu.be/a2zL_AjBaBg",
             "percent": 100,
             "hz": 1500
+        },
+        {
+            "user": "blanketman42",
+            "link": "https://youtu.be/PID-vazhOVg?si=_on01SZJruzpWpRn",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
