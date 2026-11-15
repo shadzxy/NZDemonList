@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+         {
+            "user": "Coromy",
+            "link": "https://www.youtube.com/watch?v=RvaeOUMIy94",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Extravagon",
             "link": "https://www.youtube.com/watch?v=OYHoJILtJBU",
