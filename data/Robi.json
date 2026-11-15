@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=l8XJNhBJS2k",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Coromy",
+            "link": "https://www.youtube.com/watch?v=EibG0JsRqPs",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
