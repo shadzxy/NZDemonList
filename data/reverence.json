@@ -25,6 +25,12 @@
             "link": "https://youtu.be/0qSI1gFWT5g",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Frogs",
+            "link": "https://www.youtube.com/watch?v=-TPn1W-itZs",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
