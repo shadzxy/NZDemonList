@@ -223,6 +223,12 @@
             "link": "https://www.youtube.com/watch?v=QFEOgHKURHU&list=PLmruZtx4pbdhpA_i-HIK_EAHhdlemQ6LZ&index=11",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bread",
+            "link": "https://www.youtube.com/watch?v=68sHl8Utg2M",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
