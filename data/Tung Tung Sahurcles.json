@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=HevlMQ2ds54",
             "percent": 100,
             "hz": 1500
+        },
+        {
+            "user": "Breadman44",
+            "link": "https://www.youtube.com/watch?v=yzqrXeYHDgE",
+            "percent": 100,
+            "hz": 200
         }
     ]
 }
