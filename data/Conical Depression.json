@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=AyPkj0vbJmU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bread",
+            "link": "https://www.youtube.com/watch?v=MCBP3xvK3no",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
