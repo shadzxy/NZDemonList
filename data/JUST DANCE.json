@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+         {
+            "user": "Coromy",
+            "link": "https://www.youtube.com/watch?v=RAAr4bnA1HA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
