@@ -265,6 +265,12 @@
             "link": "https://www.youtube.com/watch?v=6Anbc6nospg",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Edward",
+            "link": "https://youtu.be/sTt1z0cQhJQ",
+            "percent": 100,
+            "hz": 960
         }
     ]
 }
