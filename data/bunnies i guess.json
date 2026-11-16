@@ -3,11 +3,17 @@
     "name": "bunnies i guess",
     "author": "ciibule",
     "creators": ["ciibule"],
-    "verifier": "Stainsley",
-    "verification": "https://youtu.be/JkqW-_wTp4c",
+    "verifier": "Coromy",
+    "verification": "https://www.youtube.com/watch?v=CIq2bCJu33w",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "Stainsley",
+            "link": "https://youtu.be/JkqW-_wTp4c",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "Shira",
             "link": "https://www.youtube.com/watch?v=LJUzN9qVW64",
