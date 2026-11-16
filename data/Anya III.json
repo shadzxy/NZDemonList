@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=6iZS9d8kG6g",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "KenCardboard",
+            "link": "https://www.youtube.com/watch?v=3f37Q3RCEe4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
