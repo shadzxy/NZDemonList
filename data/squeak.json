@@ -1,0 +1,18 @@
+{
+    "id": 123912413,
+    "name": "squeak",
+    "author": "chloechu",
+    "creators": ["chloechu"],
+    "verifier": "a duck",
+    "verification": "https://youtu.be/3iK3D1cZ_mI",
+    "percentToQualify": 100,
+    "password": "040400",
+    "records": [
+        {
+            "user": "Shira",
+            "link": "https://youtu.be/fY4X9W-1quY",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
